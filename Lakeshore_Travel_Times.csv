@@ -1,0 +1,416 @@
+"Origin Movement ID","Origin Display Name","Destination Movement ID","Destination Display Name","Date Range","Mean Travel Time (Seconds)","Range - Lower Bound Travel Time (Seconds)","Range - Upper Bound Travel Time (Seconds)"
+"1718","300 Arballo Dr, San Francisco, CA","9","500 Hyde Street, Tenderloin, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1790,1334,2400
+"1718","300 Arballo Dr, San Francisco, CA","20","900 Sutter Street, Lower Nob Hill, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1862,1402,2471
+"1718","300 Arballo Dr, San Francisco, CA","21","3400 Pierce Street, Marina District, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1895,1440,2493
+"1718","300 Arballo Dr, San Francisco, CA","44","1700 Egbert Avenue, Bayview, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1209,832,1754
+"1718","300 Arballo Dr, San Francisco, CA","46","500 Chester Street, West Oakland, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1969,1399,2770
+"1718","300 Arballo Dr, San Francisco, CA","78","1400 Thomas Avenue, Bayview, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1410,1025,1937
+"1718","300 Arballo Dr, San Francisco, CA","79","1500 California Street, Polk Gulch, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1964,1493,2582
+"1718","300 Arballo Dr, San Francisco, CA","80","0 Farren Street, Western Addition, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1771,1462,2144
+"1718","300 Arballo Dr, San Francisco, CA","81","0 Berkeley Way, Diamond Heights, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",865,642,1164
+"1718","300 Arballo Dr, San Francisco, CA","82","2700 25th Street, Mission District, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1123,802,1572
+"1718","300 Arballo Dr, San Francisco, CA","87","2200 Wyandotte Street, Mountain View","11/15/2016 - 12/15/2016, Every day, Daily Average",2167,1740,2698
+"1718","300 Arballo Dr, San Francisco, CA","90","300 Heathcliff Drive, Westview, Pacifica","11/15/2016 - 12/15/2016, Every day, Daily Average",763,517,1124
+"1718","300 Arballo Dr, San Francisco, CA","91","700 Industrial Road, San Carlos","11/15/2016 - 12/15/2016, Every day, Daily Average",1590,1215,2080
+"1718","300 Arballo Dr, San Francisco, CA","98","500 10th Street, Downtown Oakland, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1981,1363,2877
+"1718","300 Arballo Dr, San Francisco, CA","113","1200 Hayes Street, Western Addition, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1530,1243,1882
+"1718","300 Arballo Dr, San Francisco, CA","117","100 Edgemar Street, Crocker, Daly City","11/15/2016 - 12/15/2016, Every day, Daily Average",660,473,919
+"1718","300 Arballo Dr, San Francisco, CA","123","20000 Merritt Drive, Cupertino","11/15/2016 - 12/15/2016, Every day, Daily Average",2492,2063,3009
+"1718","300 Arballo Dr, San Francisco, CA","153","400 Giannini Drive, Santa Clara","11/15/2016 - 12/15/2016, Every day, Daily Average",2551,2099,3100
+"1718","300 Arballo Dr, San Francisco, CA","155","400 North Mary Avenue, Sunnyvale West, Sunnyvale","11/15/2016 - 12/15/2016, Every day, Daily Average",2537,2061,3122
+"1718","300 Arballo Dr, San Francisco, CA","165","2200 Franklin Street, Pacific Heights, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",2101,1688,2614
+"1718","300 Arballo Dr, San Francisco, CA","176","500 Hull Avenue, Central San Jose, San Jose","11/15/2016 - 12/15/2016, Every day, Daily Average",3087,2473,3852
+"1718","300 Arballo Dr, San Francisco, CA","181","3400 Richmond Boulevard, Oakland Ave - Harrison St, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1986,1403,2809
+"1718","300 Arballo Dr, San Francisco, CA","184","0 South Almaden Boulevard, Central San Jose, San Jose","11/15/2016 - 12/15/2016, Every day, Daily Average",3325,2593,4262
+"1718","300 Arballo Dr, San Francisco, CA","186","1800 Vicente Street, Sunset District, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",353,231,537
+"1718","300 Arballo Dr, San Francisco, CA","206","1300 15th Street, Mission District, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1123,761,1657
+"1718","300 Arballo Dr, San Francisco, CA","207","1100 Guerrero Street, Mission District, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1121,835,1503
+"1718","300 Arballo Dr, San Francisco, CA","208","600 Alabama Street, Mission District, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1476,1110,1961
+"1718","300 Arballo Dr, San Francisco, CA","209","300 Wilde Avenue, Visitacion Valley, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1016,689,1496
+"1718","300 Arballo Dr, San Francisco, CA","210","100 Ramsell Street, Oceanview, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",201,92,438
+"1718","300 Arballo Dr, San Francisco, CA","211","200 16th Avenue, Richmond District, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1198,920,1559
+"1718","300 Arballo Dr, San Francisco, CA","212","500 Washington Street, Financial District, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1949,1460,2600
+"1718","300 Arballo Dr, San Francisco, CA","232","1000 Beech Street, East Palo Alto","11/15/2016 - 12/15/2016, Every day, Daily Average",1967,1564,2473
+"1718","300 Arballo Dr, San Francisco, CA","233","County Jail Road, San Bruno","11/15/2016 - 12/15/2016, Every day, Daily Average",1041,741,1460
+"1718","300 Arballo Dr, San Francisco, CA","234","100 Domestic Terminals Departures Level, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",913,690,1206
+"1718","300 Arballo Dr, San Francisco, CA","264","300 Irwin Street, San Rafael","11/15/2016 - 12/15/2016, Every day, Daily Average",2132,1705,2665
+"1718","300 Arballo Dr, San Francisco, CA","285","1600 Maritime Street, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1814,1259,2613
+"1718","300 Arballo Dr, San Francisco, CA","286","1000 10th Street, West Oakland, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1956,1385,2761
+"1718","300 Arballo Dr, San Francisco, CA","299","Chinatown / North Beach Campus, Russian Hill, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",2301,1833,2887
+"1718","300 Arballo Dr, San Francisco, CA","302","0 Bass Court, Bayview, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1448,1056,1985
+"1718","300 Arballo Dr, San Francisco, CA","303","Bay Trail, Sunnyvale","11/15/2016 - 12/15/2016, Every day, Daily Average",2513,1975,3195
+"1718","300 Arballo Dr, San Francisco, CA","304","500 Zook Road, Mountain View","11/15/2016 - 12/15/2016, Every day, Daily Average",2347,1897,2902
+"1718","300 Arballo Dr, San Francisco, CA","306","200 Silverlake Drive, Lakewood, Sunnyvale","11/15/2016 - 12/15/2016, Every day, Daily Average",2472,2018,3028
+"1718","300 Arballo Dr, San Francisco, CA","311","200 Northgate Avenue, Westlake, Daly City","11/15/2016 - 12/15/2016, Every day, Daily Average",211,107,415
+"1718","300 Arballo Dr, San Francisco, CA","314","200 Alta Mesa Drive, Serra Highlands, South San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",466,321,674
+"1718","300 Arballo Dr, San Francisco, CA","315","900 Veterans Boulevard, Redwood City","11/15/2016 - 12/15/2016, Every day, Daily Average",1710,1309,2232
+"1718","300 Arballo Dr, San Francisco, CA","321","Nimitz Freeway, Downtown Oakland, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1951,1401,2716
+"1718","300 Arballo Dr, San Francisco, CA","322","300 Warwick Avenue, Adams Point, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1962,1370,2808
+"1718","300 Arballo Dr, San Francisco, CA","323","900 Embarcadero West, West Oakland, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1999,1455,2744
+"1718","300 Arballo Dr, San Francisco, CA","338","100 Hinman Road, Redwood City","11/15/2016 - 12/15/2016, Every day, Daily Average",1736,1336,2255
+"1718","300 Arballo Dr, San Francisco, CA","345","400 Moffett Boulevard, Mountain View","11/15/2016 - 12/15/2016, Every day, Daily Average",2269,1851,2780
+"1718","300 Arballo Dr, San Francisco, CA","347","900 Sycamore Drive, Midtown, Palo Alto","11/15/2016 - 12/15/2016, Every day, Daily Average",2037,1683,2464
+"1718","300 Arballo Dr, San Francisco, CA","380","2800 Moorpark Avenue, West San Jose, San Jose","11/15/2016 - 12/15/2016, Every day, Daily Average",2800,2301,3406
+"1718","300 Arballo Dr, San Francisco, CA","394","3600 Page Street, Friendly Acres, Redwood City","11/15/2016 - 12/15/2016, Every day, Daily Average",1888,1456,2446
+"1718","300 Arballo Dr, San Francisco, CA","395","300 Sequoia Avenue, Redwood City","11/15/2016 - 12/15/2016, Every day, Daily Average",1664,1487,1861
+"1718","300 Arballo Dr, San Francisco, CA","408","1800 Hillside Boulevard, Colma","11/15/2016 - 12/15/2016, Every day, Daily Average",686,461,1019
+"1718","300 Arballo Dr, San Francisco, CA","409","200 Nelson Avenue, Edgemar - Pacific Manor, Pacifica","11/15/2016 - 12/15/2016, Every day, Daily Average",630,416,953
+"1718","300 Arballo Dr, San Francisco, CA","423","200 Locust Avenue, San Rafael","11/15/2016 - 12/15/2016, Every day, Daily Average",2249,1817,2783
+"1718","300 Arballo Dr, San Francisco, CA","433","600 Vanessa Drive, Central San Mateo, San Mateo","11/15/2016 - 12/15/2016, Every day, Daily Average",1412,1051,1896
+"1718","300 Arballo Dr, San Francisco, CA","434","1300 Franklin Street, Western Addition, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1948,1509,2513
+"1718","300 Arballo Dr, San Francisco, CA","443","New Corona Heights Trail, The Castro, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1442,1119,1858
+"1718","300 Arballo Dr, San Francisco, CA","445","900 Divisadero Street, Western Addition, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1699,1390,2076
+"1718","300 Arballo Dr, San Francisco, CA","452","1200 Green Street, Russian Hill, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",2087,1639,2656
+"1718","300 Arballo Dr, San Francisco, CA","457","3100 West Street, Hoover - Foster, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1923,1355,2727
+"1718","300 Arballo Dr, San Francisco, CA","458","900 Webster Street, Downtown Oakland, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",2040,1417,2936
+"1718","300 Arballo Dr, San Francisco, CA","495","4200 Shelter Creek Lane, San Bruno","11/15/2016 - 12/15/2016, Every day, Daily Average",673,470,962
+"1718","300 Arballo Dr, San Francisco, CA","528","600 Lexington Way, Oak Grove Manor, Burlingame","11/15/2016 - 12/15/2016, Every day, Daily Average",1147,834,1576
+"1718","300 Arballo Dr, San Francisco, CA","529","100 36th Avenue, South San Mateo, San Mateo","11/15/2016 - 12/15/2016, Every day, Daily Average",1811,1388,2361
+"1718","300 Arballo Dr, San Francisco, CA","532","200 Beach Street, North Beach, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",2165,1650,2840
+"1718","300 Arballo Dr, San Francisco, CA","533","1400 Grant Avenue, North Beach, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",2087,1594,2731
+"1718","300 Arballo Dr, San Francisco, CA","534","200 Walnut Street, Presidio Heights, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1611,1290,2011
+"1718","300 Arballo Dr, San Francisco, CA","535","0 Rossi Avenue, Richmond District, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1391,1065,1816
+"1718","300 Arballo Dr, San Francisco, CA","536","800 Franklin Street, Fillmore District, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1852,1461,2347
+"1718","300 Arballo Dr, San Francisco, CA","537","500 Webster Street, Western Addition, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1610,1267,2045
+"1718","300 Arballo Dr, San Francisco, CA","541","200 San Fernando Way, St. Francis, Daly City","11/15/2016 - 12/15/2016, Every day, Daily Average",329,195,555
+"1718","300 Arballo Dr, San Francisco, CA","542","2200 Kenry Way, Westborough, South San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",498,348,711
+"1718","300 Arballo Dr, San Francisco, CA","543","2500 Carmel Drive, San Bruno","11/15/2016 - 12/15/2016, Every day, Daily Average",549,389,774
+"1718","300 Arballo Dr, San Francisco, CA","554","200 2nd Street, Sunnyvale","11/15/2016 - 12/15/2016, Every day, Daily Average",2566,2061,3193
+"1718","300 Arballo Dr, San Francisco, CA","555","500 Aldo Avenue, Santa Clara","11/15/2016 - 12/15/2016, Every day, Daily Average",2689,2200,3285
+"1718","300 Arballo Dr, San Francisco, CA","591","2500 10th Avenue, Bella Vista, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",2046,1458,2870
+"1718","300 Arballo Dr, San Francisco, CA","608","700 11th Street, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1975,1369,2847
+"1718","300 Arballo Dr, San Francisco, CA","629","100 Guerrero Street, Mission Dolores, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1451,1089,1933
+"1718","300 Arballo Dr, San Francisco, CA","641","1400 Jackson Street, Nob Hill, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",2073,1603,2679
+"1718","300 Arballo Dr, San Francisco, CA","642","600 Grant Avenue, Chinatown, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1901,1375,2627
+"1718","300 Arballo Dr, San Francisco, CA","643","200 Myrtle Street, Tenderloin, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1821,1351,2453
+"1718","300 Arballo Dr, San Francisco, CA","644","200 Jones Street, Tenderloin, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1634,1184,2254
+"1718","300 Arballo Dr, San Francisco, CA","645","1400 Chestnut Street, Marina District, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",2016,1578,2574
+"1718","300 Arballo Dr, San Francisco, CA","646","500 Clayton Street, Haight-Ashbury, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1354,1096,1671
+"1718","300 Arballo Dr, San Francisco, CA","647","800 Ashbury Street, Ashbury Heights, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1261,999,1590
+"1718","300 Arballo Dr, San Francisco, CA","648","3800 19th Street, Dolores Heights, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1341,1047,1717
+"1718","300 Arballo Dr, San Francisco, CA","649","1000 Diamond Street, Noe Valley, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",973,738,1282
+"1718","300 Arballo Dr, San Francisco, CA","650","700 Rhode Island Street, Potrero Hill, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",966,678,1375
+"1718","300 Arballo Dr, San Francisco, CA","651","2900 22nd Street, Mission District, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1358,1018,1810
+"1718","300 Arballo Dr, San Francisco, CA","652","300 Hale Street, Excelsior, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",769,523,1129
+"1718","300 Arballo Dr, San Francisco, CA","653","600 Lisbon Street, Excelsior, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",798,597,1065
+"1718","300 Arballo Dr, San Francisco, CA","659","200 Staples Avenue, Outer Mission, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",626,421,929
+"1718","300 Arballo Dr, San Francisco, CA","660","1900 Lawton Street, Sunset District, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",808,607,1073
+"1718","300 Arballo Dr, San Francisco, CA","661","Building F, Buckingham Way, Lakeshore, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",112,40,310
+"1718","300 Arballo Dr, San Francisco, CA","662","1300 46th Avenue, Sunset District, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",799,625,1020
+"1718","300 Arballo Dr, San Francisco, CA","663","200 21st Avenue, Central Richmond, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1337,1011,1766
+"1718","300 Arballo Dr, San Francisco, CA","664","700 32nd Avenue, Richmond District, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1129,886,1437
+"1718","300 Arballo Dr, San Francisco, CA","665","0 Brookdale Avenue, Visitacion Valley, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",965,716,1300
+"1718","300 Arballo Dr, San Francisco, CA","666","1200 El Camino Del Mar, Sea Cliff, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1170,942,1452
+"1718","300 Arballo Dr, San Francisco, CA","675","200 Oriente Street, Bayshore Heights, Daly City","11/15/2016 - 12/15/2016, Every day, Daily Average",1021,762,1366
+"1718","300 Arballo Dr, San Francisco, CA","676","300 Citrus Avenue, Daly City","11/15/2016 - 12/15/2016, Every day, Daily Average",251,138,455
+"1718","300 Arballo Dr, San Francisco, CA","677","0 Ridgefield Avenue, St. Francis, Daly City","11/15/2016 - 12/15/2016, Every day, Daily Average",544,342,864
+"1718","300 Arballo Dr, San Francisco, CA","678","2500 Crestmoor Drive, San Bruno","11/15/2016 - 12/15/2016, Every day, Daily Average",583,416,815
+"1718","300 Arballo Dr, San Francisco, CA","679","800 Paloma Avenue, Burlingame Terrace, Burlingame","11/15/2016 - 12/15/2016, Every day, Daily Average",1346,995,1820
+"1718","300 Arballo Dr, San Francisco, CA","680","700 South Fremont Street, North Central, San Mateo","11/15/2016 - 12/15/2016, Every day, Daily Average",1362,1024,1810
+"1718","300 Arballo Dr, San Francisco, CA","682","1300 South Norfolk Street, Shoreview, San Mateo","11/15/2016 - 12/15/2016, Every day, Daily Average",1315,976,1771
+"1718","300 Arballo Dr, San Francisco, CA","684","1100 Vailwood Way, South San Mateo, San Mateo","11/15/2016 - 12/15/2016, Every day, Daily Average",1536,1158,2035
+"1718","300 Arballo Dr, San Francisco, CA","695","400 South Willard Avenue, Central San Jose, San Jose","11/15/2016 - 12/15/2016, Every day, Daily Average",3037,2399,3844
+"1718","300 Arballo Dr, San Francisco, CA","722","800 Hibiscus Lane, West San Jose, San Jose","11/15/2016 - 12/15/2016, Every day, Daily Average",2688,2201,3282
+"1718","300 Arballo Dr, San Francisco, CA","741","1600 San Luis Avenue, Rex Manor, Mountain View","11/15/2016 - 12/15/2016, Every day, Daily Average",2217,1799,2730
+"1718","300 Arballo Dr, San Francisco, CA","744","Monte Bello Road (Trail), Cupertino","11/15/2016 - 12/15/2016, Every day, Daily Average",2036,1641,2525
+"1718","300 Arballo Dr, San Francisco, CA","808","3000 Adeline Street, Clawson, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1925,1349,2746
+"1718","300 Arballo Dr, San Francisco, CA","809","200 Santa Rosa Avenue, Grand Lake, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",2071,1420,3019
+"1718","300 Arballo Dr, San Francisco, CA","817","400 Oxford Way, Belmont","11/15/2016 - 12/15/2016, Every day, Daily Average",1543,1157,2057
+"1718","300 Arballo Dr, San Francisco, CA","818","700 Bay Road, Staumbaugh Heller, Redwood City","11/15/2016 - 12/15/2016, Every day, Daily Average",1785,1374,2317
+"1718","300 Arballo Dr, San Francisco, CA","829","7800 Lilac Court, Cupertino","11/15/2016 - 12/15/2016, Every day, Daily Average",2398,2040,2817
+"1718","300 Arballo Dr, San Francisco, CA","858","600 Geneva Avenue, Outer Mission, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",565,382,834
+"1718","300 Arballo Dr, San Francisco, CA","859","2200 24th Avenue, Sunset District, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",673,484,933
+"1718","300 Arballo Dr, San Francisco, CA","860","2300 Cabrillo Street, Richmond District, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1096,820,1464
+"1718","300 Arballo Dr, San Francisco, CA","866","0 Bernard Street, Nob Hill, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",2190,1704,2813
+"1718","300 Arballo Dr, San Francisco, CA","867","2200 Post Street, Western Addition, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1951,1593,2389
+"1718","300 Arballo Dr, San Francisco, CA","868","500 Diamond Street, Noe Valley, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",995,755,1310
+"1718","300 Arballo Dr, San Francisco, CA","886","4400 Telegraph Avenue, Temescal, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1940,1388,2709
+"1718","300 Arballo Dr, San Francisco, CA","904","400 North Fernwood Circle, Snail, Sunnyvale","11/15/2016 - 12/15/2016, Every day, Daily Average",2453,2087,2882
+"1718","300 Arballo Dr, San Francisco, CA","905","1000 Pine Street, Lower Nob Hill, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",2052,1609,2616
+"1718","300 Arballo Dr, San Francisco, CA","906","2700 Octavia Street, Cow Hollow, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",2085,1657,2622
+"1718","300 Arballo Dr, San Francisco, CA","907","2500 Turk Street, Richmond District, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1527,1227,1899
+"1718","300 Arballo Dr, San Francisco, CA","908","1200 18th Street, Potrero Hill, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",956,699,1307
+"1718","300 Arballo Dr, San Francisco, CA","909","1400 40th Avenue, Sunset District, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",681,498,930
+"1718","300 Arballo Dr, San Francisco, CA","910","700 La Playa Street, Richmond District, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",976,764,1246
+"1718","300 Arballo Dr, San Francisco, CA","915","300 Dolores Way, Sunshine Gardens, South San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",981,723,1330
+"1718","300 Arballo Dr, San Francisco, CA","920","100 Whisman Station Drive, Mountain View","11/15/2016 - 12/15/2016, Every day, Daily Average",2545,2053,3154
+"1718","300 Arballo Dr, San Francisco, CA","927","800 Aspen Way, Palo Verde, Palo Alto","11/15/2016 - 12/15/2016, Every day, Daily Average",2103,1723,2565
+"1718","300 Arballo Dr, San Francisco, CA","930","400 Northlake Drive, West San Jose, San Jose","11/15/2016 - 12/15/2016, Every day, Daily Average",2724,2236,3317
+"1718","300 Arballo Dr, San Francisco, CA","931","10300 North Stelling Road, Cupertino","11/15/2016 - 12/15/2016, Every day, Daily Average",2521,2090,3040
+"1718","300 Arballo Dr, San Francisco, CA","950","Old Sled Trail, Bolinas","11/15/2016 - 12/15/2016, Every day, Daily Average",1524,1166,1991
+"1718","300 Arballo Dr, San Francisco, CA","963","600 Sutter Street, Lower Nob Hill, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1941,1456,2586
+"1718","300 Arballo Dr, San Francisco, CA","964","2900 Broderick Street, Cow Hollow, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1723,1329,2232
+"1718","300 Arballo Dr, San Francisco, CA","965","200 Topeka Avenue, Silver Terrace, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1213,872,1687
+"1718","300 Arballo Dr, San Francisco, CA","967","1400 32nd Avenue, Sunset District, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",633,467,856
+"1718","300 Arballo Dr, San Francisco, CA","968","3200 Anza Street, Richmond District, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1194,905,1574
+"1718","300 Arballo Dr, San Francisco, CA","1030","5300 Lawton Avenue, Shafter, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",2063,1446,2941
+"1718","300 Arballo Dr, San Francisco, CA","1046","300 Grand Avenue, Adams Point, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1993,1389,2859
+"1718","300 Arballo Dr, San Francisco, CA","1053","500 Haddon Road, Cleveland Heights, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",2010,1423,2838
+"1718","300 Arballo Dr, San Francisco, CA","1060","3600 East 8th Street, South Kennedy Tract, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",2118,1519,2952
+"1718","300 Arballo Dr, San Francisco, CA","1063","800 54th Avenue, Coliseum Industrial, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",2207,1577,3088
+"1718","300 Arballo Dr, San Francisco, CA","1066","7200 Doolittle Drive, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",2426,1774,3317
+"1718","300 Arballo Dr, San Francisco, CA","1068","1600 Poplar Street, West Oakland, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",2001,1428,2802
+"1718","300 Arballo Dr, San Francisco, CA","1080","Pier 2, Emeryville","11/15/2016 - 12/15/2016, Every day, Daily Average",1774,1260,2495
+"1718","300 Arballo Dr, San Francisco, CA","1119","0 Locust Avenue, Larkspur","11/15/2016 - 12/15/2016, Every day, Daily Average",2055,1619,2607
+"1718","300 Arballo Dr, San Francisco, CA","1120","0 Spindrift Passage, Corte Madera","11/15/2016 - 12/15/2016, Every day, Daily Average",1966,1536,2516
+"1718","300 Arballo Dr, San Francisco, CA","1121","300 Ridgewood Avenue, Mill Valley","11/15/2016 - 12/15/2016, Every day, Daily Average",1750,1393,2198
+"1718","300 Arballo Dr, San Francisco, CA","1209","600 Woodside Drive, Woodside Hills, Woodside","11/15/2016 - 12/15/2016, Every day, Daily Average",1571,1261,1956
+"1718","300 Arballo Dr, San Francisco, CA","1210","Cypress Ridge Road, Redwood City","11/15/2016 - 12/15/2016, Every day, Daily Average",1240,977,1573
+"1718","300 Arballo Dr, San Francisco, CA","1211","700 Coleman Avenue, Menlo Park","11/15/2016 - 12/15/2016, Every day, Daily Average",1909,1568,2322
+"1718","300 Arballo Dr, San Francisco, CA","1237","400 Lincoln Avenue, Central San Jose, San Jose","11/15/2016 - 12/15/2016, Every day, Daily Average",3087,2429,3921
+"1718","300 Arballo Dr, San Francisco, CA","1244","800 Jackson Street, Chinatown, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",2125,1549,2915
+"1718","300 Arballo Dr, San Francisco, CA","1245","500 Geary Street, Tenderloin, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1812,1336,2457
+"1718","300 Arballo Dr, San Francisco, CA","1246","300 McAllister Street, Civic Center, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1616,1149,2270
+"1718","300 Arballo Dr, San Francisco, CA","1247","100 Magnolia Street, Marina District, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1913,1489,2457
+"1718","300 Arballo Dr, San Francisco, CA","1257","2400 Octavia Street, Pacific Heights, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",2058,1643,2577
+"1718","300 Arballo Dr, San Francisco, CA","1258","2600 Broadway, Pacific Heights, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",2021,1624,2514
+"1718","300 Arballo Dr, San Francisco, CA","1259","2100 Divisadero Street, Pacific Heights, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1901,1551,2329
+"1718","300 Arballo Dr, San Francisco, CA","1260","1800 Scott Street, Western Addition, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1856,1535,2243
+"1718","300 Arballo Dr, San Francisco, CA","1261","700 Presidio Avenue, Western Addition, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1642,1316,2047
+"1718","300 Arballo Dr, San Francisco, CA","1265","0 Stoneybrook Avenue, Excelsior, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",718,485,1062
+"1718","300 Arballo Dr, San Francisco, CA","1271","200 Bacon Street, Excelsior, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",963,638,1452
+"1718","300 Arballo Dr, San Francisco, CA","1272","500 Moscow Street, Excelsior, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",932,717,1210
+"1718","300 Arballo Dr, San Francisco, CA","1273","200 Naglee Avenue, Outer Mission, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",429,281,653
+"1718","300 Arballo Dr, San Francisco, CA","1275","0 McLaren Avenue, Sea Cliff, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1255,964,1633
+"1718","300 Arballo Dr, San Francisco, CA","1276","1100 Golden Gate Avenue, Western Addition, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1841,1471,2302
+"1718","300 Arballo Dr, San Francisco, CA","1277","300 Hayes Street, Civic Center, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1652,1250,2182
+"1718","300 Arballo Dr, San Francisco, CA","1278","100 Noe Street, The Castro, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1497,1189,1883
+"1718","300 Arballo Dr, San Francisco, CA","1279","1100 Folsom Street, South of Market, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1364,961,1935
+"1718","300 Arballo Dr, San Francisco, CA","1280","300 Church Street, Mission District, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1428,1119,1821
+"1718","300 Arballo Dr, San Francisco, CA","1281","700 Guerrero Street, Mission Dolores, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1273,959,1688
+"1718","300 Arballo Dr, San Francisco, CA","1282","1600 Church Street, Noe Valley, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",965,715,1301
+"1718","300 Arballo Dr, San Francisco, CA","1291","1500 Balboa Street, Richmond District, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1107,841,1456
+"1718","300 Arballo Dr, San Francisco, CA","1292","1300 Wright Loop, Presidio, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1424,1078,1880
+"1718","300 Arballo Dr, San Francisco, CA","1293","400 Moraga Street, Sunset District, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",792,580,1079
+"1718","300 Arballo Dr, San Francisco, CA","1294","600 Panorama Drive, Midtown Terrace, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",888,676,1165
+"1718","300 Arballo Dr, San Francisco, CA","1295","0 Avoca Alley, West of Twin Peaks, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",871,638,1187
+"1718","300 Arballo Dr, San Francisco, CA","1296","1300 22nd Avenue, Sunset District, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",851,635,1139
+"1718","300 Arballo Dr, San Francisco, CA","1297","100 Font Boulevard, Lakeshore, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",99,40,239
+"1718","300 Arballo Dr, San Francisco, CA","1298","200 3rd Avenue, Richmond District, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1417,1107,1813
+"1718","300 Arballo Dr, San Francisco, CA","1299","8700 Mission Rock Street, South of Market, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1187,854,1648
+"1718","300 Arballo Dr, San Francisco, CA","1300","200 John F Kennedy Drive, Golden Gate Park, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1050,773,1425
+"1718","300 Arballo Dr, San Francisco, CA","1302","Tasman Drive, Santa Clara","11/15/2016 - 12/15/2016, Every day, Daily Average",2721,2195,3372
+"1718","300 Arballo Dr, San Francisco, CA","1304","2300 Lafayette Street, Santa Clara","11/15/2016 - 12/15/2016, Every day, Daily Average",2643,2200,3173
+"1718","300 Arballo Dr, San Francisco, CA","1309","300 Kiely Boulevard, West San Jose, San Jose","11/15/2016 - 12/15/2016, Every day, Daily Average",2628,2162,3194
+"1718","300 Arballo Dr, San Francisco, CA","1333","21800 Lomita Avenue, Cupertino","11/15/2016 - 12/15/2016, Every day, Daily Average",2410,2029,2861
+"1718","300 Arballo Dr, San Francisco, CA","1339","700 San Juan Drive, San Miguel, Sunnyvale","11/15/2016 - 12/15/2016, Every day, Daily Average",2405,2052,2818
+"1718","300 Arballo Dr, San Francisco, CA","1360","300 Waverley Street, Downtown North, Palo Alto","11/15/2016 - 12/15/2016, Every day, Daily Average",2511,1961,3213
+"1718","300 Arballo Dr, San Francisco, CA","1361","26200 Catharine Court, Los Altos Hills","11/15/2016 - 12/15/2016, Every day, Daily Average",2061,1696,2503
+"1718","300 Arballo Dr, San Francisco, CA","1363","Reservoir Road, Stanford","11/15/2016 - 12/15/2016, Every day, Daily Average",1972,1560,2491
+"1718","300 Arballo Dr, San Francisco, CA","1437","200 Knowles Avenue, Daly City","11/15/2016 - 12/15/2016, Every day, Daily Average",441,282,688
+"1718","300 Arballo Dr, San Francisco, CA","1438","300 87th Street, St. Francis, Daly City","11/15/2016 - 12/15/2016, Every day, Daily Average",267,141,502
+"1718","300 Arballo Dr, San Francisco, CA","1443","100 Serramonte Boulevard, Serramonte, Daly City","11/15/2016 - 12/15/2016, Every day, Daily Average",347,220,546
+"1718","300 Arballo Dr, San Francisco, CA","1446","700 Larch Avenue, Paradise Valley, South San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1072,805,1425
+"1718","300 Arballo Dr, San Francisco, CA","1447","200 9th Lane, Downtown, South San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1352,1036,1763
+"1718","300 Arballo Dr, San Francisco, CA","1448","300 Baden Avenue, Downtown, South San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1150,832,1588
+"1718","300 Arballo Dr, San Francisco, CA","1449","500 Forbes Boulevard, The East Side, South San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1089,749,1582
+"1718","300 Arballo Dr, San Francisco, CA","1450","0 Brookhaven Court, Fairmont, Pacifica","11/15/2016 - 12/15/2016, Every day, Daily Average",606,391,938
+"1718","300 Arballo Dr, San Francisco, CA","1451","400 Loma Vista Terrace, Sharp Park, Pacifica","11/15/2016 - 12/15/2016, Every day, Daily Average",765,494,1184
+"1718","300 Arballo Dr, San Francisco, CA","1452","200 Ramona Avenue, Vallemar, Pacifica","11/15/2016 - 12/15/2016, Every day, Daily Average",906,610,1344
+"1718","300 Arballo Dr, San Francisco, CA","1453","2700 Campus Drive, Beresford Park, San Mateo","11/15/2016 - 12/15/2016, Every day, Daily Average",1517,1171,1963
+"1718","300 Arballo Dr, San Francisco, CA","1454","300 East 28th Avenue, South San Mateo, San Mateo","11/15/2016 - 12/15/2016, Every day, Daily Average",1555,1162,2079
+"1718","300 Arballo Dr, San Francisco, CA","1455","1800 Helene Court, East San Mateo, San Mateo","11/15/2016 - 12/15/2016, Every day, Daily Average",1331,966,1832
+"1718","300 Arballo Dr, San Francisco, CA","1456","Montara Mountain Trail, Pacifica","11/15/2016 - 12/15/2016, Every day, Daily Average",927,654,1313
+"1718","300 Arballo Dr, San Francisco, CA","1457","1500 Donner Avenue, San Bruno","11/15/2016 - 12/15/2016, Every day, Daily Average",717,499,1028
+"1718","300 Arballo Dr, San Francisco, CA","1458","0 Colorados Drive, Millbrae","11/15/2016 - 12/15/2016, Every day, Daily Average",779,568,1067
+"1718","300 Arballo Dr, San Francisco, CA","1459","1400 Vancouver Avenue, Easton Addition, Burlingame","11/15/2016 - 12/15/2016, Every day, Daily Average",1221,952,1565
+"1718","300 Arballo Dr, San Francisco, CA","1460","400 Williams Place, Central San Mateo, San Mateo","11/15/2016 - 12/15/2016, Every day, Daily Average",1467,1106,1944
+"1718","300 Arballo Dr, San Francisco, CA","1461","200 North Fremont Street, Central San Mateo, San Mateo","11/15/2016 - 12/15/2016, Every day, Daily Average",1297,961,1749
+"1718","300 Arballo Dr, San Francisco, CA","1464","200 Cupertino Way, South San Mateo, San Mateo","11/15/2016 - 12/15/2016, Every day, Daily Average",1539,1156,2048
+"1718","300 Arballo Dr, San Francisco, CA","1467","2600 Somerset Drive, Belmont","11/15/2016 - 12/15/2016, Every day, Daily Average",1217,957,1546
+"1718","300 Arballo Dr, San Francisco, CA","1472","200 Oakhurst Place, Suburban Park - Lorelei Manor - Flood Park Triangle, Menlo Park","11/15/2016 - 12/15/2016, Every day, Daily Average",1804,1485,2190
+"1718","300 Arballo Dr, San Francisco, CA","1504","5800 Christie Avenue, Emeryville","11/15/2016 - 12/15/2016, Every day, Daily Average",1854,1330,2584
+"1718","300 Arballo Dr, San Francisco, CA","1513","Dwight D. Eisenhower Highway, Berkeley","11/15/2016 - 12/15/2016, Every day, Daily Average",1894,1368,2621
+"1718","300 Arballo Dr, San Francisco, CA","1534","600 East 8th Street, Downtown Oakland, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1999,1429,2794
+"1718","300 Arballo Dr, San Francisco, CA","1559","500 Embarcadero West, Downtown Oakland, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",2016,1447,2808
+"1718","300 Arballo Dr, San Francisco, CA","1629","500 Peru Avenue, Excelsior, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",998,772,1289
+"1718","300 Arballo Dr, San Francisco, CA","1630","800 Bacon Street, Excelsior, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1068,806,1414
+"1718","300 Arballo Dr, San Francisco, CA","1639","0 Curtis Street, Crocker-Amazon, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",724,515,1016
+"1718","300 Arballo Dr, San Francisco, CA","1646","100 Murray Street, Bernal Heights, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",747,519,1073
+"1718","300 Arballo Dr, San Francisco, CA","1647","500 Brunswick Street, Crocker-Amazon, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",590,399,870
+"1718","300 Arballo Dr, San Francisco, CA","1648","Historic Trail, Inner Sunset, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1046,811,1347
+"1718","300 Arballo Dr, San Francisco, CA","1649","1300 10th Avenue, Inner Sunset, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1020,789,1317
+"1718","300 Arballo Dr, San Francisco, CA","1650","1900 16th Avenue, Inner Sunset, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",683,494,943
+"1718","300 Arballo Dr, San Francisco, CA","1674","200 Hyde Street, Tenderloin, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1582,1150,2175
+"1718","300 Arballo Dr, San Francisco, CA","1677","200 Funston Road, Marina District, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",2067,1590,2685
+"1718","300 Arballo Dr, San Francisco, CA","1682","700 Haight Street, Lower Haight, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1524,1242,1868
+"1718","300 Arballo Dr, San Francisco, CA","1686","0 The Embarcadero, North Beach, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1872,1380,2537
+"1718","300 Arballo Dr, San Francisco, CA","1687","1400 Powell Street, Russian Hill, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",2175,1674,2825
+"1718","300 Arballo Dr, San Francisco, CA","1688","1100 Taylor Street, Nob Hill, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",2089,1559,2798
+"1718","300 Arballo Dr, San Francisco, CA","1689","200 Sutter Street, Financial District, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1874,1360,2582
+"1718","300 Arballo Dr, San Francisco, CA","1690","900 Pine Street, Lower Nob Hill, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",2072,1599,2683
+"1718","300 Arballo Dr, San Francisco, CA","1691","200 O'Farrell Street, Tenderloin, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1726,1255,2372
+"1718","300 Arballo Dr, San Francisco, CA","1692","800 Mission Street, South of Market, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1523,1074,2157
+"1718","300 Arballo Dr, San Francisco, CA","1694","700 Folsom Street, South of Market, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1453,1027,2054
+"1718","300 Arballo Dr, San Francisco, CA","1695","5th Street, Treasure Island, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1597,1067,2390
+"1718","300 Arballo Dr, San Francisco, CA","1696","4700 18th Street, Eureka Valley, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1101,863,1404
+"1718","300 Arballo Dr, San Francisco, CA","1697","400 Burnett Avenue, Twin Peaks, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",973,748,1264
+"1718","300 Arballo Dr, San Francisco, CA","1698","3500 20th Street, Mission District, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1398,1062,1838
+"1718","300 Arballo Dr, San Francisco, CA","1699","900 Sanchez Street, Dolores Heights, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1249,976,1597
+"1718","300 Arballo Dr, San Francisco, CA","1700","3900 25th Street, Noe Valley, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1158,903,1483
+"1718","300 Arballo Dr, San Francisco, CA","1701","600 28th Street, Noe Valley, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",916,687,1221
+"1718","300 Arballo Dr, San Francisco, CA","1702","100 Randall Street, Glen Park, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",928,663,1298
+"1718","300 Arballo Dr, San Francisco, CA","1703","2600 21st Street, Mission District, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",979,685,1398
+"1718","300 Arballo Dr, San Francisco, CA","1704","2900 24th Street, Mission District, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1219,878,1690
+"1718","300 Arballo Dr, San Francisco, CA","1705","0 Conkling Street, Silver Terrace, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",852,586,1237
+"1718","300 Arballo Dr, San Francisco, CA","1706","700 Bernal Heights Boulevard, Bernal Heights, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1106,806,1516
+"1718","300 Arballo Dr, San Francisco, CA","1707","100 Appleton Avenue, Bernal Heights, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",818,584,1144
+"1718","300 Arballo Dr, San Francisco, CA","1710","100 Morningside Drive, Lakeshore, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",265,155,452
+"1718","300 Arballo Dr, San Francisco, CA","1718","300 Arballo Drive, Lakeshore, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",182,69,476
+"1718","300 Arballo Dr, San Francisco, CA","1720","2200 47th Avenue, Sunset District, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",474,335,670
+"1718","300 Arballo Dr, San Francisco, CA","1721","Bayfront Expressway, Menlo Park","11/15/2016 - 12/15/2016, Every day, Daily Average",1905,1480,2451
+"1718","300 Arballo Dr, San Francisco, CA","1722","200 9th Avenue, Richmond District, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1247,948,1640
+"1718","300 Arballo Dr, San Francisco, CA","1723","600 Burrows Avenue, San Bruno","11/15/2016 - 12/15/2016, Every day, Daily Average",700,478,1024
+"1718","300 Arballo Dr, San Francisco, CA","1724","2200 Euclid Avenue, East Palo Alto","11/15/2016 - 12/15/2016, Every day, Daily Average",1894,1518,2362
+"1718","300 Arballo Dr, San Francisco, CA","1726","1700 Oakdell Drive, Menlo Park","11/15/2016 - 12/15/2016, Every day, Daily Average",1968,1611,2403
+"1718","300 Arballo Dr, San Francisco, CA","1728","800 Easton Avenue, San Bruno","11/15/2016 - 12/15/2016, Every day, Daily Average",681,485,954
+"1718","300 Arballo Dr, San Francisco, CA","1729","1500 Adrian Road, Ingold - Milldale, Burlingame","11/15/2016 - 12/15/2016, Every day, Daily Average",1066,768,1478
+"1718","300 Arballo Dr, San Francisco, CA","1730","0 Park Lane, Brisbane","11/15/2016 - 12/15/2016, Every day, Daily Average",1177,857,1616
+"1718","300 Arballo Dr, San Francisco, CA","1731","0 Orange Court, Hillside, Daly City","11/15/2016 - 12/15/2016, Every day, Daily Average",655,471,909
+"1718","300 Arballo Dr, San Francisco, CA","1732","0 Longview Drive, Westlake, Daly City","11/15/2016 - 12/15/2016, Every day, Daily Average",569,365,884
+"1718","300 Arballo Dr, San Francisco, CA","1733","0 Barry Lane, West Atherton, Atherton","11/15/2016 - 12/15/2016, Every day, Daily Average",1888,1468,2427
+"1718","300 Arballo Dr, San Francisco, CA","1735","100 Clark Drive, Central San Mateo, San Mateo","11/15/2016 - 12/15/2016, Every day, Daily Average",1505,1142,1982
+"1718","300 Arballo Dr, San Francisco, CA","1736","2500 Sand Hill Road, Sharon Heights, Menlo Park","11/15/2016 - 12/15/2016, Every day, Daily Average",1750,1397,2192
+"1718","300 Arballo Dr, San Francisco, CA","1737","700 Westridge Drive, Central Portola Valley, Portola Valley","11/15/2016 - 12/15/2016, Every day, Daily Average",1738,1394,2166
+"1718","300 Arballo Dr, San Francisco, CA","1738","1000 Wildwood Avenue, Westlake, Daly City","11/15/2016 - 12/15/2016, Every day, Daily Average",584,409,832
+"1718","300 Arballo Dr, San Francisco, CA","1739","0 Reiner Street, Daly City","11/15/2016 - 12/15/2016, Every day, Daily Average",270,160,455
+"1718","300 Arballo Dr, San Francisco, CA","1740","800 Campus Drive, Serramonte, Daly City","11/15/2016 - 12/15/2016, Every day, Daily Average",533,335,847
+"1718","300 Arballo Dr, San Francisco, CA","1741","200 Morton Drive, Serramonte, Daly City","11/15/2016 - 12/15/2016, Every day, Daily Average",716,500,1024
+"1718","300 Arballo Dr, San Francisco, CA","1742","Junipero Serra Boulevard, Serra Highlands, South San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",698,471,1033
+"1718","300 Arballo Dr, San Francisco, CA","1743","600 San Bruno Avenue East, San Bruno","11/15/2016 - 12/15/2016, Every day, Daily Average",746,549,1013
+"1718","300 Arballo Dr, San Francisco, CA","1744","1200 Helen Drive, Millbrae","11/15/2016 - 12/15/2016, Every day, Daily Average",736,535,1012
+"1718","300 Arballo Dr, San Francisco, CA","1745","Ed Taylor Trail, Burlingame Hills, Burlingame","11/15/2016 - 12/15/2016, Every day, Daily Average",864,631,1182
+"1718","300 Arballo Dr, San Francisco, CA","1746","600 North Delaware Street, Central San Mateo, San Mateo","11/15/2016 - 12/15/2016, Every day, Daily Average",1275,933,1740
+"1718","300 Arballo Dr, San Francisco, CA","1747","1700 Coyote Point Drive, Shoreview, San Mateo","11/15/2016 - 12/15/2016, Every day, Daily Average",1222,899,1659
+"1718","300 Arballo Dr, San Francisco, CA","1748","500 Carmel Circle, Baywood - Aragon, San Mateo","11/15/2016 - 12/15/2016, Every day, Daily Average",1528,1216,1918
+"1718","300 Arballo Dr, San Francisco, CA","1749","1600 Parrott Drive, South San Mateo, San Mateo","11/15/2016 - 12/15/2016, Every day, Daily Average",1458,1118,1900
+"1718","300 Arballo Dr, San Francisco, CA","1750","1700 Yorktown Road, San Mateo","11/15/2016 - 12/15/2016, Every day, Daily Average",1085,840,1401
+"1718","300 Arballo Dr, San Francisco, CA","1752","200 West 25th Avenue, South San Mateo, San Mateo","11/15/2016 - 12/15/2016, Every day, Daily Average",1588,1230,2049
+"1718","300 Arballo Dr, San Francisco, CA","1755","3000 Los Prados Street, East San Mateo, San Mateo","11/15/2016 - 12/15/2016, Every day, Daily Average",1476,1093,1991
+"1718","300 Arballo Dr, San Francisco, CA","1756","2400 Casa Bona Avenue, Belmont","11/15/2016 - 12/15/2016, Every day, Daily Average",1447,1155,1811
+"1718","300 Arballo Dr, San Francisco, CA","1759","600 Sylvan Way, Emerald Hills","11/15/2016 - 12/15/2016, Every day, Daily Average",1394,1101,1763
+"1718","300 Arballo Dr, San Francisco, CA","1762","500 Summit Spring Road, Woodside","11/15/2016 - 12/15/2016, Every day, Daily Average",1442,1149,1809
+"1718","300 Arballo Dr, San Francisco, CA","1764","300 26th Avenue, Central Richmond, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1230,951,1589
+"1718","300 Arballo Dr, San Francisco, CA","1768","800 Balboa Street, Richmond District, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1136,867,1487
+"1718","300 Arballo Dr, San Francisco, CA","1770","1800 32nd Avenue, Sunset District, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",530,386,727
+"1718","300 Arballo Dr, San Francisco, CA","1771","0 Lopez Avenue, West of Twin Peaks, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",620,431,891
+"1718","300 Arballo Dr, San Francisco, CA","1772","0 Rockaway Avenue, West of Twin Peaks, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",747,549,1015
+"1718","300 Arballo Dr, San Francisco, CA","1773","0 Majestic Avenue, Ingleside, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",651,468,904
+"1718","300 Arballo Dr, San Francisco, CA","1774","200 Byxbee Street, Oceanview, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",265,151,463
+"1718","300 Arballo Dr, San Francisco, CA","1775","100 Farallones Street, Oceanview, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",470,305,723
+"1718","300 Arballo Dr, San Francisco, CA","1776","1800 25th Avenue, Sunset District, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",752,556,1016
+"1718","300 Arballo Dr, San Francisco, CA","1777","7100 Geary Boulevard, Richmond District, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1130,875,1457
+"1718","300 Arballo Dr, San Francisco, CA","1778","7700 Geary Boulevard, Richmond District, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1076,869,1331
+"1718","300 Arballo Dr, San Francisco, CA","1779","500 John Muir Drive, Lakeshore, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",166,73,374
+"1718","300 Arballo Dr, San Francisco, CA","1780","1600 McKinnon Avenue, Bayview, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1254,913,1720
+"1718","300 Arballo Dr, San Francisco, CA","1781","1100 Carolina Street, Potrero Hill, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",906,639,1283
+"1718","300 Arballo Dr, San Francisco, CA","1783","1500 Mansell Street, Visitacion Valley, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",932,692,1254
+"1718","300 Arballo Dr, San Francisco, CA","1831","1100 East Arques Avenue, Sunnyvale","11/15/2016 - 12/15/2016, Every day, Daily Average",2572,2129,3105
+"1718","300 Arballo Dr, San Francisco, CA","1833","500 Logue Avenue, Mountain View","11/15/2016 - 12/15/2016, Every day, Daily Average",2394,1920,2984
+"1718","300 Arballo Dr, San Francisco, CA","1848","600 Campbell Avenue, Los Altos","11/15/2016 - 12/15/2016, Every day, Daily Average",2431,1947,3034
+"1718","300 Arballo Dr, San Francisco, CA","1849","300 South San Antonio Road, North Los Altos, Los Altos","11/15/2016 - 12/15/2016, Every day, Daily Average",2455,1956,3080
+"1718","300 Arballo Dr, San Francisco, CA","1851","100 Primrose Way, Duveneck - St. Francis, Palo Alto","11/15/2016 - 12/15/2016, Every day, Daily Average",2001,1613,2482
+"1718","300 Arballo Dr, San Francisco, CA","1853","1400 Club View Terrace, Country Club, Los Altos","11/15/2016 - 12/15/2016, Every day, Daily Average",2192,1811,2652
+"1718","300 Arballo Dr, San Francisco, CA","1869","12900 Tripoli Court, Los Altos Hills","11/15/2016 - 12/15/2016, Every day, Daily Average",2058,1663,2546
+"1718","300 Arballo Dr, San Francisco, CA","1917","4900 Moorpark Avenue, Strawberry Park, San Jose","11/15/2016 - 12/15/2016, Every day, Daily Average",2606,2143,3168
+"1718","300 Arballo Dr, San Francisco, CA","1919","300 Mac Arthur Avenue, Central San Jose, San Jose","11/15/2016 - 12/15/2016, Every day, Daily Average",2879,2330,3556
+"1718","300 Arballo Dr, San Francisco, CA","1920","1800 Fruitdale Avenue, Central San Jose, San Jose","11/15/2016 - 12/15/2016, Every day, Daily Average",3119,2501,3888
+"1718","300 Arballo Dr, San Francisco, CA","1937","19500 Dorchester Drive, Golden Triangle, Saratoga","11/15/2016 - 12/15/2016, Every day, Daily Average",2674,2183,3275
+"1718","300 Arballo Dr, San Francisco, CA","1944","700 Girard Street, Visitacion Valley, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",953,644,1410
+"1718","300 Arballo Dr, San Francisco, CA","1949","7100 Rainbow Drive, West San Jose, San Jose","11/15/2016 - 12/15/2016, Every day, Daily Average",2607,2134,3184
+"1718","300 Arballo Dr, San Francisco, CA","1951","400 Delta Street, Visitacion Valley, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1091,828,1435
+"1718","300 Arballo Dr, San Francisco, CA","2121","2900 Kerner Boulevard, San Rafael","11/15/2016 - 12/15/2016, Every day, Daily Average",2123,1673,2693
+"1718","300 Arballo Dr, San Francisco, CA","2127","0 Hamilton Drive, Mill Valley","11/15/2016 - 12/15/2016, Every day, Daily Average",1808,1425,2293
+"1718","300 Arballo Dr, San Francisco, CA","2132","300 Vista Grande, Greenbrae, Kentfield","11/15/2016 - 12/15/2016, Every day, Daily Average",2074,1637,2627
+"1718","300 Arballo Dr, San Francisco, CA","2133","600 Manzanita Avenue, Corte Madera","11/15/2016 - 12/15/2016, Every day, Daily Average",1948,1532,2476
+"1718","300 Arballo Dr, San Francisco, CA","2136","300 Carrera Drive, Mill Valley","11/15/2016 - 12/15/2016, Every day, Daily Average",1695,1352,2124
+"1718","300 Arballo Dr, San Francisco, CA","2137","0 West Harbor Drive, Sausalito","11/15/2016 - 12/15/2016, Every day, Daily Average",1637,1292,2072
+"1718","300 Arballo Dr, San Francisco, CA","2155","3100 North Shoreline Boulevard, Mountain View","11/15/2016 - 12/15/2016, Every day, Daily Average",2116,1678,2667
+"1718","300 Arballo Dr, San Francisco, CA","2169","1000 Liege Terrace, Morse Park, Sunnyvale","11/15/2016 - 12/15/2016, Every day, Daily Average",2493,2019,3078
+"1718","300 Arballo Dr, San Francisco, CA","2170","2500 Junction Avenue, North San Jose, San Jose","11/15/2016 - 12/15/2016, Every day, Daily Average",3031,2331,3940
+"1718","300 Arballo Dr, San Francisco, CA","2171","1400 Airport Boulevard, North San Jose, San Jose","11/15/2016 - 12/15/2016, Every day, Daily Average",2989,2366,3774
+"1718","300 Arballo Dr, San Francisco, CA","2187","4200 Middle Harbor Road, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1819,1307,2530
+"1718","300 Arballo Dr, San Francisco, CA","2213","800 40th Street, Longfellow, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1949,1386,2739
+"1718","300 Arballo Dr, San Francisco, CA","2215","1500 East 31st Street, Tuxedo, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",2078,1375,3139
+"1718","300 Arballo Dr, San Francisco, CA","2222","Junipero Serra Freeway, Cupertino","11/15/2016 - 12/15/2016, Every day, Daily Average",2380,1973,2870
+"1718","300 Arballo Dr, San Francisco, CA","2223","1900 Scott Lane, Woodland Acres - The Highlands, Los Altos","11/15/2016 - 12/15/2016, Every day, Daily Average",2275,1882,2748
+"1718","300 Arballo Dr, San Francisco, CA","2231","100 Garden Lane, Millbrae","11/15/2016 - 12/15/2016, Every day, Daily Average",998,717,1388
+"1718","300 Arballo Dr, San Francisco, CA","2236","San Francisco Bay Trail, Hayward","11/15/2016 - 12/15/2016, Every day, Daily Average",2173,1623,2908
+"1718","300 Arballo Dr, San Francisco, CA","2240","600 Campus Drive, Stanford","11/15/2016 - 12/15/2016, Every day, Daily Average",2321,1955,2755
+"1718","300 Arballo Dr, San Francisco, CA","2244","0 Crystal Springs Terrace, Hillsborough Park, Hillsborough","11/15/2016 - 12/15/2016, Every day, Daily Average",1016,772,1335
+"1718","300 Arballo Dr, San Francisco, CA","2245","1400 Crestwood Court, South San Mateo, San Mateo","11/15/2016 - 12/15/2016, Every day, Daily Average",1349,1055,1724
+"1718","300 Arballo Dr, San Francisco, CA","2246","900 Baker Way, East San Mateo, San Mateo","11/15/2016 - 12/15/2016, Every day, Daily Average",1672,1223,2285
+"1718","300 Arballo Dr, San Francisco, CA","2247","J. Arthur Younger Freeway, Foster City","11/15/2016 - 12/15/2016, Every day, Daily Average",1841,1335,2537
+"1718","300 Arballo Dr, San Francisco, CA","2250","Hassler Trail, Redwood City","11/15/2016 - 12/15/2016, Every day, Daily Average",1311,1037,1656
+"1718","300 Arballo Dr, San Francisco, CA","2251","2100 Camino De Los Robles, University Heights, Menlo Park","11/15/2016 - 12/15/2016, Every day, Daily Average",1866,1586,2195
+"1718","300 Arballo Dr, San Francisco, CA","2281","0 Corte Palos Verdes, Tiburon, Belvedere Tiburon","11/15/2016 - 12/15/2016, Every day, Daily Average",1894,1479,2425
+"1718","300 Arballo Dr, San Francisco, CA","2308","300 Fremont Street, South of Market, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1533,1069,2196
+"1718","300 Arballo Dr, San Francisco, CA","2311","2700 Larkin Street, Russian Hill, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",2165,1684,2782
+"1718","300 Arballo Dr, San Francisco, CA","2312","2100 Webster Street, Pacific Heights, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",2026,1672,2454
+"1718","300 Arballo Dr, San Francisco, CA","2313","1300 Webster Street, Western Addition, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1892,1530,2338
+"1718","300 Arballo Dr, San Francisco, CA","2314","300 Waller Street, Western Addition, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1582,1279,1956
+"1718","300 Arballo Dr, San Francisco, CA","2315","0 Duboce Avenue, South of Market, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1464,1059,2023
+"1718","300 Arballo Dr, San Francisco, CA","2316","2800 Folsom Street, Mission District, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1268,946,1698
+"1718","300 Arballo Dr, San Francisco, CA","2317","100 Coleridge Street, Bernal Heights, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",918,660,1275
+"1718","300 Arballo Dr, San Francisco, CA","2318","100 Santa Rosa Avenue, Outer Mission, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",658,442,977
+"1718","300 Arballo Dr, San Francisco, CA","2319","300 Lisbon Street, Excelsior, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",889,674,1172
+"1718","300 Arballo Dr, San Francisco, CA","2320","300 Argonaut Avenue, Visitacion Valley, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1036,767,1399
+"1718","300 Arballo Dr, San Francisco, CA","2321","400 Irving Street, Inner Sunset, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1123,878,1435
+"1718","300 Arballo Dr, San Francisco, CA","2322","100 Eastwood Drive, West of Twin Peaks, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",631,452,879
+"1718","300 Arballo Dr, San Francisco, CA","2323","2600 40th Avenue, Sunset District, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",342,221,528
+"1718","300 Arballo Dr, San Francisco, CA","2330","0 Peoria Street, Crocker, Daly City","11/15/2016 - 12/15/2016, Every day, Daily Average",556,386,799
+"1718","300 Arballo Dr, San Francisco, CA","2339","Frenchmans Creek Road, Half Moon Bay","11/15/2016 - 12/15/2016, Every day, Daily Average",906,683,1201
+"1718","300 Arballo Dr, San Francisco, CA","2340","0 Mason Street, Tenderloin, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1593,1138,2229
+"1718","300 Arballo Dr, San Francisco, CA","2343","West Point Road, Bayview, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1371,1041,1804
+"1718","300 Arballo Dr, San Francisco, CA","2344","600 3rd Avenue, Richmond District, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1281,999,1641
+"1718","300 Arballo Dr, San Francisco, CA","2345","1400 Howard Avenue, Downtown, Burlingame","11/15/2016 - 12/15/2016, Every day, Daily Average",1488,1113,1987
+"1718","300 Arballo Dr, San Francisco, CA","2363","18800 Barnhart Avenue, Rancho Rinconada, Cupertino","11/15/2016 - 12/15/2016, Every day, Daily Average",2552,2100,3101
+"1718","300 Arballo Dr, San Francisco, CA","2378","700 Welch Road, Palo Alto","11/15/2016 - 12/15/2016, Every day, Daily Average",2317,1815,2956
+"1718","300 Arballo Dr, San Francisco, CA","2441","100 Octavia Street, Western Addition, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1576,1195,2077
+"1718","300 Arballo Dr, San Francisco, CA","2442","2800 Mission Street, Mission District, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1261,945,1681
+"1718","300 Arballo Dr, San Francisco, CA","2443","500 22nd Street, Potrero Hill, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",972,692,1364
+"1718","300 Arballo Dr, San Francisco, CA","2448","200 Shorebird Circle, Redwood Shores, Redwood City","11/15/2016 - 12/15/2016, Every day, Daily Average",1835,1437,2343
+"1718","300 Arballo Dr, San Francisco, CA","2451","700 Westlake Center, Westlake, Daly City","11/15/2016 - 12/15/2016, Every day, Daily Average",239,123,460
+"1718","300 Arballo Dr, San Francisco, CA","2452","400 Verducci Drive, Serramonte, Daly City","11/15/2016 - 12/15/2016, Every day, Daily Average",413,281,605
+"1718","300 Arballo Dr, San Francisco, CA","2453","0 Orange Court, Country Club Manor, Hillsborough","11/15/2016 - 12/15/2016, Every day, Daily Average",937,704,1246
+"1718","300 Arballo Dr, San Francisco, CA","2454","0 16th Avenue, Hayward Park, San Mateo","11/15/2016 - 12/15/2016, Every day, Daily Average",1559,1203,2019
+"1718","300 Arballo Dr, San Francisco, CA","2460","1300 Montgomery Street, North Beach, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",2295,1841,2860
+"1718","300 Arballo Dr, San Francisco, CA","2463","200 Moncada Way, Oceanview, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",238,84,673
+"1718","300 Arballo Dr, San Francisco, CA","2464","1700 47th Avenue, Sunset District, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",688,526,899
+"1718","300 Arballo Dr, San Francisco, CA","2465","Diamond Cove Terrace, Bayview, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1069,728,1569
+"1718","300 Arballo Dr, San Francisco, CA","2466","400 Amador Street, Bayview, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",909,632,1306
+"1718","300 Arballo Dr, San Francisco, CA","2495","100 Shrader Street, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1460,1167,1825
+"1718","300 Arballo Dr, San Francisco, CA","2496","100 Diamond Street, The Castro, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1204,941,1540
+"1718","300 Arballo Dr, San Francisco, CA","2497","600 Tompkins Avenue, Bernal Heights, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",925,643,1328
+"1718","300 Arballo Dr, San Francisco, CA","2498","700 Rolph Street, Crocker-Amazon, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",840,616,1143
+"1718","300 Arballo Dr, San Francisco, CA","2499","400 Faxon Avenue, Ingleside, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",521,360,753
+"1718","300 Arballo Dr, San Francisco, CA","2502","Old Guadalupe Trail, Daly City","11/15/2016 - 12/15/2016, Every day, Daily Average",848,616,1166
+"1718","300 Arballo Dr, San Francisco, CA","2503","3700 Callan Boulevard, Westborough, South San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",481,330,700
+"1718","300 Arballo Dr, San Francisco, CA","2504","5900 Cabrillo Highway, Pacifica","11/15/2016 - 12/15/2016, Every day, Daily Average",879,643,1200
+"1718","300 Arballo Dr, San Francisco, CA","2505","1000 Commodore Drive, San Bruno","11/15/2016 - 12/15/2016, Every day, Daily Average",630,450,880
+"1718","300 Arballo Dr, San Francisco, CA","2513","300 O' Connor Street, The Willows, Menlo Park","11/15/2016 - 12/15/2016, Every day, Daily Average",1950,1564,2430
+"1718","300 Arballo Dr, San Francisco, CA","2525","1200 Elko Drive, Sunnyvale","11/15/2016 - 12/15/2016, Every day, Daily Average",2641,2108,3307
+"1718","300 Arballo Dr, San Francisco, CA","2535","3300 Walton Way, West San Jose, San Jose","11/15/2016 - 12/15/2016, Every day, Daily Average",2738,2247,3335
+"1718","300 Arballo Dr, San Francisco, CA","2554","0 Oliver Lane, Mill Valley","11/15/2016 - 12/15/2016, Every day, Daily Average",1787,1406,2271
+"1718","300 Arballo Dr, San Francisco, CA","2582","1200 Manzanita Drive, Millbrae","11/15/2016 - 12/15/2016, Every day, Daily Average",801,585,1094
+"1718","300 Arballo Dr, San Francisco, CA","2597","3000 Telegraph Avenue, Pill Hill, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1977,1405,2780
+"1718","300 Arballo Dr, San Francisco, CA","2601","800 Cole Street, Ashbury Heights, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1290,1029,1616
+"1718","300 Arballo Dr, San Francisco, CA","2605","0 Cable Roadway, Sausalito","11/15/2016 - 12/15/2016, Every day, Daily Average",1574,1209,2048
+"1718","300 Arballo Dr, San Francisco, CA","2606","2100 Beach Street, Marina District, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1557,1217,1990
+"1718","300 Arballo Dr, San Francisco, CA","2607","100 Campus Drive, Stanford","11/15/2016 - 12/15/2016, Every day, Daily Average",2057,1712,2470
+"1718","300 Arballo Dr, San Francisco, CA","2613","1700 Eisenhower Street, Shoreview, San Mateo","11/15/2016 - 12/15/2016, Every day, Daily Average",1365,1014,1836
+"1718","300 Arballo Dr, San Francisco, CA","2614","100 West Portal Avenue, West of Twin Peaks, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",514,347,760
+"1718","300 Arballo Dr, San Francisco, CA","2622","300 Langton Street, South of Market, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1220,854,1742
+"1718","300 Arballo Dr, San Francisco, CA","2624","1300 16th Avenue, Inner Sunset, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",864,642,1161
+"1718","300 Arballo Dr, San Francisco, CA","2625","400 Alpha Street, Visitacion Valley, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1091,800,1486
+"1718","300 Arballo Dr, San Francisco, CA","2643","1300 Egbert Avenue, Bayview, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1153,819,1622
+"1718","300 Arballo Dr, San Francisco, CA","2650","400 Palm Avenue, Millbrae","11/15/2016 - 12/15/2016, Every day, Daily Average",1223,981,1523
+"1718","300 Arballo Dr, San Francisco, CA","2656","7500 Hollanderry Place, Cupertino","11/15/2016 - 12/15/2016, Every day, Daily Average",2561,2103,3117
+"1718","300 Arballo Dr, San Francisco, CA","2660","0 Burgess Court, Sausalito","11/15/2016 - 12/15/2016, Every day, Daily Average",1627,1288,2054
+"1718","300 Arballo Dr, San Francisco, CA","2673","100 Rutledge Street, Bernal Heights, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",848,587,1224
+"1718","300 Arballo Dr, San Francisco, CA","2675","200 Sandpiper Court, Foster City","11/15/2016 - 12/15/2016, Every day, Daily Average",1628,1186,2234
+"1718","300 Arballo Dr, San Francisco, CA","2691","800 Hacienda Way, Millbrae","11/15/2016 - 12/15/2016, Every day, Daily Average",1066,794,1430
+"1718","300 Arballo Dr, San Francisco, CA","2694","1900 Buchanan Street, Western Addition, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1972,1631,2383
+"1718","300 Arballo Dr, San Francisco, CA","2695","2200 Rivera Street, Sunset District, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",441,311,624
+"1718","300 Arballo Dr, San Francisco, CA","2700","300 Ponderosa Road, Avalon, South San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",515,357,742
+"1718","300 Arballo Dr, San Francisco, CA","2708","200 Westview Drive, Sunshine Gardens, South San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",887,637,1233

@@ -1,0 +1,784 @@
+"Origin Movement ID","Origin Display Name","Destination Movement ID","Destination Display Name","Date Range","Mean Travel Time (Seconds)","Range - Lower Bound Travel Time (Seconds)","Range - Upper Bound Travel Time (Seconds)"
+"1686","Embarcadero, San Francisco, CA","2","400 Northumberland Avenue, Redwood Oaks, Redwood City","11/15/2016 - 12/15/2016, Every day, Daily Average",2747,2188,3448
+"1686","Embarcadero, San Francisco, CA","9","500 Hyde Street, Tenderloin, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",934,668,1305
+"1686","Embarcadero, San Francisco, CA","11","0 Mesa Vista Court, San Ramon","11/15/2016 - 12/15/2016, Every day, Daily Average",2817,2091,3794
+"1686","Embarcadero, San Francisco, CA","20","900 Sutter Street, Lower Nob Hill, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",867,614,1223
+"1686","Embarcadero, San Francisco, CA","21","3400 Pierce Street, Marina District, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",887,649,1211
+"1686","Embarcadero, San Francisco, CA","25","400 Bowline Drive, Vacaville","11/15/2016 - 12/15/2016, Every day, Daily Average",3782,3367,4247
+"1686","Embarcadero, San Francisco, CA","30","2200 Central Avenue, Alameda","11/15/2016 - 12/15/2016, Every day, Daily Average",1857,1310,2631
+"1686","Embarcadero, San Francisco, CA","31","5900 San Diego Street, El Cerrito","11/15/2016 - 12/15/2016, Every day, Daily Average",1381,1061,1795
+"1686","Embarcadero, San Francisco, CA","39","Maxwell Al, Vallejo","11/15/2016 - 12/15/2016, Every day, Daily Average",2646,1918,3650
+"1686","Embarcadero, San Francisco, CA","44","1700 Egbert Avenue, Bayview, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1517,1098,2093
+"1686","Embarcadero, San Francisco, CA","46","500 Chester Street, West Oakland, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1186,824,1706
+"1686","Embarcadero, San Francisco, CA","57","1700 Bayo Vista Avenue, San Pablo","11/15/2016 - 12/15/2016, Every day, Daily Average",1729,1207,2475
+"1686","Embarcadero, San Francisco, CA","58","5600 Genoa Street, Santa Fe, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1533,1053,2230
+"1686","Embarcadero, San Francisco, CA","60","33900 Emilia Lane, Ardenwood, Fremont","11/15/2016 - 12/15/2016, Every day, Daily Average",2621,2021,3399
+"1686","Embarcadero, San Francisco, CA","61","5400 Ridgewood Drive, Ardenwood, Fremont","11/15/2016 - 12/15/2016, Every day, Daily Average",2639,2049,3398
+"1686","Embarcadero, San Francisco, CA","64","5200 Selma Avenue, Centerville, Fremont","11/15/2016 - 12/15/2016, Every day, Daily Average",3005,2297,3930
+"1686","Embarcadero, San Francisco, CA","65","42600 Everglades Park Drive, Blacow, Fremont","11/15/2016 - 12/15/2016, Every day, Daily Average",3001,2344,3840
+"1686","Embarcadero, San Francisco, CA","73","2100 Fieldcrest Avenue, Fairfield","11/15/2016 - 12/15/2016, Every day, Daily Average",3528,3115,3994
+"1686","Embarcadero, San Francisco, CA","78","1400 Thomas Avenue, Bayview, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1593,1178,2153
+"1686","Embarcadero, San Francisco, CA","79","1500 California Street, Polk Gulch, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",742,516,1065
+"1686","Embarcadero, San Francisco, CA","80","0 Farren Street, Western Addition, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1281,966,1698
+"1686","Embarcadero, San Francisco, CA","81","0 Berkeley Way, Diamond Heights, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1660,1211,2275
+"1686","Embarcadero, San Francisco, CA","82","2700 25th Street, Mission District, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1062,722,1561
+"1686","Embarcadero, San Francisco, CA","86","300 Ruth Avenue, Monta Loma, Mountain View","11/15/2016 - 12/15/2016, Every day, Daily Average",3379,2663,4287
+"1686","Embarcadero, San Francisco, CA","87","2200 Wyandotte Street, Mountain View","11/15/2016 - 12/15/2016, Every day, Daily Average",2947,2353,3690
+"1686","Embarcadero, San Francisco, CA","90","300 Heathcliff Drive, Westview, Pacifica","11/15/2016 - 12/15/2016, Every day, Daily Average",1842,1438,2358
+"1686","Embarcadero, San Francisco, CA","91","700 Industrial Road, San Carlos","11/15/2016 - 12/15/2016, Every day, Daily Average",2312,1796,2976
+"1686","Embarcadero, San Francisco, CA","96","2200 Bonar Street, Poets Corner, Berkeley","11/15/2016 - 12/15/2016, Every day, Daily Average",1324,992,1767
+"1686","Embarcadero, San Francisco, CA","97","600 Hilldale Avenue, Berkeley Hills, Berkeley","11/15/2016 - 12/15/2016, Every day, Daily Average",1822,1351,2456
+"1686","Embarcadero, San Francisco, CA","98","500 10th Street, Downtown Oakland, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1262,870,1828
+"1686","Embarcadero, San Francisco, CA","99","2400 19th Avenue, Highland Terrace, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1631,1236,2150
+"1686","Embarcadero, San Francisco, CA","100","3100 Overlook Way, Richmond","11/15/2016 - 12/15/2016, Every day, Daily Average",2337,1563,3492
+"1686","Embarcadero, San Francisco, CA","102","500 Mount Street, East Richmond, Richmond","11/15/2016 - 12/15/2016, Every day, Daily Average",1614,1131,2301
+"1686","Embarcadero, San Francisco, CA","103","35500 Ebro Court, Centerville, Fremont","11/15/2016 - 12/15/2016, Every day, Daily Average",2762,2133,3575
+"1686","Embarcadero, San Francisco, CA","104","4300 Baine Avenue, Centerville, Fremont","11/15/2016 - 12/15/2016, Every day, Daily Average",2911,2274,3725
+"1686","Embarcadero, San Francisco, CA","107","1900 Sandcreek Way, Alameda","11/15/2016 - 12/15/2016, Every day, Daily Average",2064,1586,2684
+"1686","Embarcadero, San Francisco, CA","108","400 West Sunset Boulevard, Hayward","11/15/2016 - 12/15/2016, Every day, Daily Average",2105,1586,2792
+"1686","Embarcadero, San Francisco, CA","113","1200 Hayes Street, Western Addition, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1405,1054,1871
+"1686","Embarcadero, San Francisco, CA","117","100 Edgemar Street, Crocker, Daly City","11/15/2016 - 12/15/2016, Every day, Daily Average",1501,1158,1944
+"1686","Embarcadero, San Francisco, CA","118","1500 Sunnyslope Avenue, Belmont","11/15/2016 - 12/15/2016, Every day, Daily Average",2475,1912,3203
+"1686","Embarcadero, San Francisco, CA","119","1100 Rosewood Avenue, San Carlos","11/15/2016 - 12/15/2016, Every day, Daily Average",2649,2107,3328
+"1686","Embarcadero, San Francisco, CA","123","20000 Merritt Drive, Cupertino","11/15/2016 - 12/15/2016, Every day, Daily Average",3716,3044,4535
+"1686","Embarcadero, San Francisco, CA","125","4300 Silva Court, Palo Alto","11/15/2016 - 12/15/2016, Every day, Daily Average",3351,2641,4251
+"1686","Embarcadero, San Francisco, CA","127","2000 Waverley Street, Old Palo Alto, Palo Alto","11/15/2016 - 12/15/2016, Every day, Daily Average",3011,2393,3788
+"1686","Embarcadero, San Francisco, CA","151","500 20th Street, Downtown Oakland, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1394,1007,1928
+"1686","Embarcadero, San Francisco, CA","153","400 Giannini Drive, Santa Clara","11/15/2016 - 12/15/2016, Every day, Daily Average",3723,3115,4448
+"1686","Embarcadero, San Francisco, CA","155","400 North Mary Avenue, Sunnyvale West, Sunnyvale","11/15/2016 - 12/15/2016, Every day, Daily Average",3289,2566,4214
+"1686","Embarcadero, San Francisco, CA","165","2200 Franklin Street, Pacific Heights, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",695,476,1013
+"1686","Embarcadero, San Francisco, CA","169","900 Rose Street, North Hayward, Hayward","11/15/2016 - 12/15/2016, Every day, Daily Average",2048,1608,2608
+"1686","Embarcadero, San Francisco, CA","171","3300 Betty Lane, Lafayette","11/15/2016 - 12/15/2016, Every day, Daily Average",2195,1681,2865
+"1686","Embarcadero, San Francisco, CA","176","500 Hull Avenue, Central San Jose, San Jose","11/15/2016 - 12/15/2016, Every day, Daily Average",4149,3433,5013
+"1686","Embarcadero, San Francisco, CA","181","3400 Richmond Boulevard, Oakland Ave - Harrison St, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1224,859,1742
+"1686","Embarcadero, San Francisco, CA","184","0 South Almaden Boulevard, Central San Jose, San Jose","11/15/2016 - 12/15/2016, Every day, Daily Average",4107,3231,5219
+"1686","Embarcadero, San Francisco, CA","186","1800 Vicente Street, Sunset District, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",2086,1662,2617
+"1686","Embarcadero, San Francisco, CA","194","600 Aileen Street, Upper Telegraph, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1398,980,1993
+"1686","Embarcadero, San Francisco, CA","206","1300 15th Street, Mission District, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1001,676,1480
+"1686","Embarcadero, San Francisco, CA","207","1100 Guerrero Street, Mission District, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1445,1037,2011
+"1686","Embarcadero, San Francisco, CA","208","600 Alabama Street, Mission District, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1399,1015,1927
+"1686","Embarcadero, San Francisco, CA","209","300 Wilde Avenue, Visitacion Valley, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1182,836,1669
+"1686","Embarcadero, San Francisco, CA","210","100 Ramsell Street, Oceanview, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1420,1024,1967
+"1686","Embarcadero, San Francisco, CA","211","200 16th Avenue, Richmond District, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1440,1109,1869
+"1686","Embarcadero, San Francisco, CA","212","500 Washington Street, Financial District, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",169,64,443
+"1686","Embarcadero, San Francisco, CA","216","3700 Lake Ontario Drive, Lakes and Birds, Fremont","11/15/2016 - 12/15/2016, Every day, Daily Average",2496,1938,3214
+"1686","Embarcadero, San Francisco, CA","232","1000 Beech Street, East Palo Alto","11/15/2016 - 12/15/2016, Every day, Daily Average",2771,2155,3562
+"1686","Embarcadero, San Francisco, CA","233","County Jail Road, San Bruno","11/15/2016 - 12/15/2016, Every day, Daily Average",2141,1572,2915
+"1686","Embarcadero, San Francisco, CA","234","100 Domestic Terminals Departures Level, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1734,1318,2281
+"1686","Embarcadero, San Francisco, CA","237","300 Orchard Avenue, Lowlanders, Sunnyvale","11/15/2016 - 12/15/2016, Every day, Daily Average",3490,2853,4268
+"1686","Embarcadero, San Francisco, CA","241","0 Pinheiro Circle, Novato","11/15/2016 - 12/15/2016, Every day, Daily Average",2530,2204,2903
+"1686","Embarcadero, San Francisco, CA","242","0 El Pavo Real Circle, San Rafael","11/15/2016 - 12/15/2016, Every day, Daily Average",2162,1718,2720
+"1686","Embarcadero, San Francisco, CA","253","1000 Shasta Street, Vallejo","11/15/2016 - 12/15/2016, Every day, Daily Average",2702,1968,3708
+"1686","Embarcadero, San Francisco, CA","264","300 Irwin Street, San Rafael","11/15/2016 - 12/15/2016, Every day, Daily Average",1968,1547,2502
+"1686","Embarcadero, San Francisco, CA","275","2800 Florida Street, Vallejo","11/15/2016 - 12/15/2016, Every day, Daily Average",2411,1880,3091
+"1686","Embarcadero, San Francisco, CA","277","500 El Paseo Drive, Sobrante Park, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1868,1310,2662
+"1686","Embarcadero, San Francisco, CA","280","1600 Sutter Street, Concord","11/15/2016 - 12/15/2016, Every day, Daily Average",2468,1847,3297
+"1686","Embarcadero, San Francisco, CA","283","6100 San Pablo Avenue, Paradise Park, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1360,919,2011
+"1686","Embarcadero, San Francisco, CA","284","300 45th Street, Temescal, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1417,929,2159
+"1686","Embarcadero, San Francisco, CA","285","1600 Maritime Street, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",972,666,1417
+"1686","Embarcadero, San Francisco, CA","286","1000 10th Street, West Oakland, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1200,831,1731
+"1686","Embarcadero, San Francisco, CA","287","2600 Logan Street, Meadow Brook, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1788,1279,2499
+"1686","Embarcadero, San Francisco, CA","288","14700 Wiley Street, Washington Manor - Bonaire, San Leandro","11/15/2016 - 12/15/2016, Every day, Daily Average",1756,1350,2283
+"1686","Embarcadero, San Francisco, CA","299","Chinatown / North Beach Campus, Russian Hill, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",492,331,729
+"1686","Embarcadero, San Francisco, CA","302","0 Bass Court, Bayview, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1538,1132,2088
+"1686","Embarcadero, San Francisco, CA","303","Bay Trail, Sunnyvale","11/15/2016 - 12/15/2016, Every day, Daily Average",3300,2582,4216
+"1686","Embarcadero, San Francisco, CA","304","500 Zook Road, Mountain View","11/15/2016 - 12/15/2016, Every day, Daily Average",3122,2472,3942
+"1686","Embarcadero, San Francisco, CA","306","200 Silverlake Drive, Lakewood, Sunnyvale","11/15/2016 - 12/15/2016, Every day, Daily Average",3293,2650,4090
+"1686","Embarcadero, San Francisco, CA","311","200 Northgate Avenue, Westlake, Daly City","11/15/2016 - 12/15/2016, Every day, Daily Average",1455,1046,2023
+"1686","Embarcadero, San Francisco, CA","314","200 Alta Mesa Drive, Serra Highlands, South San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1821,1352,2452
+"1686","Embarcadero, San Francisco, CA","315","900 Veterans Boulevard, Redwood City","11/15/2016 - 12/15/2016, Every day, Daily Average",2417,1909,3058
+"1686","Embarcadero, San Francisco, CA","321","Nimitz Freeway, Downtown Oakland, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1344,911,1980
+"1686","Embarcadero, San Francisco, CA","322","300 Warwick Avenue, Adams Point, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1237,874,1750
+"1686","Embarcadero, San Francisco, CA","323","900 Embarcadero West, West Oakland, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1273,874,1853
+"1686","Embarcadero, San Francisco, CA","328","5000 Franklin Drive, Pleasanton","11/15/2016 - 12/15/2016, Every day, Daily Average",2696,2079,3494
+"1686","Embarcadero, San Francisco, CA","333","15900 Via Paro, San Lorenzo","11/15/2016 - 12/15/2016, Every day, Daily Average",2012,1531,2643
+"1686","Embarcadero, San Francisco, CA","334","1300 Dennis Circle, Concord","11/15/2016 - 12/15/2016, Every day, Daily Average",2874,2033,4062
+"1686","Embarcadero, San Francisco, CA","338","100 Hinman Road, Redwood City","11/15/2016 - 12/15/2016, Every day, Daily Average",2449,1923,3117
+"1686","Embarcadero, San Francisco, CA","345","400 Moffett Boulevard, Mountain View","11/15/2016 - 12/15/2016, Every day, Daily Average",3060,2452,3818
+"1686","Embarcadero, San Francisco, CA","347","900 Sycamore Drive, Midtown, Palo Alto","11/15/2016 - 12/15/2016, Every day, Daily Average",2797,2258,3464
+"1686","Embarcadero, San Francisco, CA","366","Interstate 505, Vacaville","11/15/2016 - 12/15/2016, Every day, Daily Average",4043,3600,4540
+"1686","Embarcadero, San Francisco, CA","369","Ascot Parkway, Vallejo","11/15/2016 - 12/15/2016, Every day, Daily Average",2692,1992,3636
+"1686","Embarcadero, San Francisco, CA","372","100 San Marino Avenue, Vallejo","11/15/2016 - 12/15/2016, Every day, Daily Average",2747,1999,3773
+"1686","Embarcadero, San Francisco, CA","380","2800 Moorpark Avenue, West San Jose, San Jose","11/15/2016 - 12/15/2016, Every day, Daily Average",4031,3348,4851
+"1686","Embarcadero, San Francisco, CA","385","0 Valley View Road, Orinda","11/15/2016 - 12/15/2016, Every day, Daily Average",1642,1239,2175
+"1686","Embarcadero, San Francisco, CA","386","0 Sable Pointe, Alameda","11/15/2016 - 12/15/2016, Every day, Daily Average",2080,1522,2842
+"1686","Embarcadero, San Francisco, CA","387","2100 Manchester Road, San Leandro","11/15/2016 - 12/15/2016, Every day, Daily Average",1974,1508,2583
+"1686","Embarcadero, San Francisco, CA","388","1700 Doolittle Drive, Davis Tract, San Leandro","11/15/2016 - 12/15/2016, Every day, Daily Average",1734,1295,2320
+"1686","Embarcadero, San Francisco, CA","389","1000 Burkhart Avenue, Washington Manor - Bonaire, San Leandro","11/15/2016 - 12/15/2016, Every day, Daily Average",1905,1443,2514
+"1686","Embarcadero, San Francisco, CA","392","27900 Ormond Avenue, Tennyson - Alquire, Hayward","11/15/2016 - 12/15/2016, Every day, Daily Average",2415,1799,3241
+"1686","Embarcadero, San Francisco, CA","394","3600 Page Street, Friendly Acres, Redwood City","11/15/2016 - 12/15/2016, Every day, Daily Average",2527,2019,3162
+"1686","Embarcadero, San Francisco, CA","395","300 Sequoia Avenue, Redwood City","11/15/2016 - 12/15/2016, Every day, Daily Average",3105,2425,3974
+"1686","Embarcadero, San Francisco, CA","397","400 Cedar Street, Vallejo","11/15/2016 - 12/15/2016, Every day, Daily Average",2485,1849,3338
+"1686","Embarcadero, San Francisco, CA","403","800 Pine Lane, San Rafael","11/15/2016 - 12/15/2016, Every day, Daily Average",2265,1792,2862
+"1686","Embarcadero, San Francisco, CA","408","1800 Hillside Boulevard, Colma","11/15/2016 - 12/15/2016, Every day, Daily Average",1719,1294,2282
+"1686","Embarcadero, San Francisco, CA","409","200 Nelson Avenue, Edgemar - Pacific Manor, Pacifica","11/15/2016 - 12/15/2016, Every day, Daily Average",1725,1301,2285
+"1686","Embarcadero, San Francisco, CA","416","2700 Contra Costa Canal Trail, Walnut Creek","11/15/2016 - 12/15/2016, Every day, Daily Average",2073,1648,2607
+"1686","Embarcadero, San Francisco, CA","417","4400 Bell Avenue, Eastshore, Richmond","11/15/2016 - 12/15/2016, Every day, Daily Average",1602,1076,2385
+"1686","Embarcadero, San Francisco, CA","422","1200 Paru Street, West Alameda, Alameda","11/15/2016 - 12/15/2016, Every day, Daily Average",1969,1443,2686
+"1686","Embarcadero, San Francisco, CA","423","200 Locust Avenue, San Rafael","11/15/2016 - 12/15/2016, Every day, Daily Average",2055,1620,2606
+"1686","Embarcadero, San Francisco, CA","431","Seaborg Road, Berkeley","11/15/2016 - 12/15/2016, Every day, Daily Average",1872,1404,2494
+"1686","Embarcadero, San Francisco, CA","433","600 Vanessa Drive, Central San Mateo, San Mateo","11/15/2016 - 12/15/2016, Every day, Daily Average",2122,1631,2760
+"1686","Embarcadero, San Francisco, CA","434","1300 Franklin Street, Western Addition, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",876,616,1243
+"1686","Embarcadero, San Francisco, CA","443","New Corona Heights Trail, The Castro, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1574,1194,2074
+"1686","Embarcadero, San Francisco, CA","445","900 Divisadero Street, Western Addition, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1356,1031,1782
+"1686","Embarcadero, San Francisco, CA","446","1000 El Centro Avenue, Glenview, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1509,1042,2184
+"1686","Embarcadero, San Francisco, CA","447","2600 Alvarado Street, Floresta Gardens - Bradrick, San Leandro","11/15/2016 - 12/15/2016, Every day, Daily Average",1893,1407,2545
+"1686","Embarcadero, San Francisco, CA","452","1200 Green Street, Russian Hill, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",571,387,841
+"1686","Embarcadero, San Francisco, CA","456","1000 56th Street, Gaskill, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1480,998,2193
+"1686","Embarcadero, San Francisco, CA","457","3100 West Street, Hoover - Foster, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1092,779,1529
+"1686","Embarcadero, San Francisco, CA","458","900 Webster Street, Downtown Oakland, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1308,895,1909
+"1686","Embarcadero, San Francisco, CA","460","2000 Rosedale Avenue, Jefferson, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1628,1251,2118
+"1686","Embarcadero, San Francisco, CA","462","1000 Shattuck Avenue, Berkeley Hills, Berkeley","11/15/2016 - 12/15/2016, Every day, Daily Average",1741,1333,2273
+"1686","Embarcadero, San Francisco, CA","463","2000 Bancroft Way, Downtown Berkeley, Berkeley","11/15/2016 - 12/15/2016, Every day, Daily Average",1703,1248,2322
+"1686","Embarcadero, San Francisco, CA","464","1600 Fairview Street, South Berkeley, Berkeley","11/15/2016 - 12/15/2016, Every day, Daily Average",1413,1004,1988
+"1686","Embarcadero, San Francisco, CA","466","100 Pelton Center Way, Old San Leandro, San Leandro","11/15/2016 - 12/15/2016, Every day, Daily Average",2000,1557,2567
+"1686","Embarcadero, San Francisco, CA","467","16300 Helo Drive, San Leandro","11/15/2016 - 12/15/2016, Every day, Daily Average",1923,1469,2516
+"1686","Embarcadero, San Francisco, CA","468","700 Via Aires, San Lorenzo","11/15/2016 - 12/15/2016, Every day, Daily Average",2094,1549,2829
+"1686","Embarcadero, San Francisco, CA","469","1800 Southgate Street, Southgate, Hayward","11/15/2016 - 12/15/2016, Every day, Daily Average",2274,1727,2993
+"1686","Embarcadero, San Francisco, CA","471","1000 Amethyst Terrace, Union City","11/15/2016 - 12/15/2016, Every day, Daily Average",3073,2193,4305
+"1686","Embarcadero, San Francisco, CA","472","4300 Alder Avenue, Centerville, Fremont","11/15/2016 - 12/15/2016, Every day, Daily Average",2792,2161,3605
+"1686","Embarcadero, San Francisco, CA","475","1500 Lacassie Avenue, Walnut Creek","11/15/2016 - 12/15/2016, Every day, Daily Average",2097,1605,2739
+"1686","Embarcadero, San Francisco, CA","477","0 Tara Road, Northwood - Tara, Orinda","11/15/2016 - 12/15/2016, Every day, Daily Average",1612,1211,2145
+"1686","Embarcadero, San Francisco, CA","478","100 Eagle Court, Birds, Hercules","11/15/2016 - 12/15/2016, Every day, Daily Average",2009,1449,2783
+"1686","Embarcadero, San Francisco, CA","481","700 Elm Street, El Cerrito","11/15/2016 - 12/15/2016, Every day, Daily Average",1802,1259,2578
+"1686","Embarcadero, San Francisco, CA","488","0 Oak Gate Place, Pleasant Hill","11/15/2016 - 12/15/2016, Every day, Daily Average",2165,1707,2745
+"1686","Embarcadero, San Francisco, CA","495","4200 Shelter Creek Lane, San Bruno","11/15/2016 - 12/15/2016, Every day, Daily Average",1844,1390,2446
+"1686","Embarcadero, San Francisco, CA","499","600 Throckmorton Avenue, Mill Valley","11/15/2016 - 12/15/2016, Every day, Daily Average",2075,1678,2565
+"1686","Embarcadero, San Francisco, CA","528","600 Lexington Way, Oak Grove Manor, Burlingame","11/15/2016 - 12/15/2016, Every day, Daily Average",1854,1380,2489
+"1686","Embarcadero, San Francisco, CA","529","100 36th Avenue, South San Mateo, San Mateo","11/15/2016 - 12/15/2016, Every day, Daily Average",2482,1882,3272
+"1686","Embarcadero, San Francisco, CA","530","400 Seventh Avenue, Fair Oaks, Menlo Park","11/15/2016 - 12/15/2016, Every day, Daily Average",2576,2077,3193
+"1686","Embarcadero, San Francisco, CA","531","800 Live Oak Avenue, Downtown Menlo Park, Menlo Park","11/15/2016 - 12/15/2016, Every day, Daily Average",3195,2585,3948
+"1686","Embarcadero, San Francisco, CA","532","200 Beach Street, North Beach, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",266,129,544
+"1686","Embarcadero, San Francisco, CA","533","1400 Grant Avenue, North Beach, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",255,118,550
+"1686","Embarcadero, San Francisco, CA","534","200 Walnut Street, Presidio Heights, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1238,949,1614
+"1686","Embarcadero, San Francisco, CA","535","0 Rossi Avenue, Richmond District, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1415,1073,1864
+"1686","Embarcadero, San Francisco, CA","536","800 Franklin Street, Fillmore District, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1059,776,1444
+"1686","Embarcadero, San Francisco, CA","537","500 Webster Street, Western Addition, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1296,924,1817
+"1686","Embarcadero, San Francisco, CA","541","200 San Fernando Way, St. Francis, Daly City","11/15/2016 - 12/15/2016, Every day, Daily Average",1533,1124,2089
+"1686","Embarcadero, San Francisco, CA","542","2200 Kenry Way, Westborough, South San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1823,1358,2446
+"1686","Embarcadero, San Francisco, CA","543","2500 Carmel Drive, San Bruno","11/15/2016 - 12/15/2016, Every day, Daily Average",1891,1414,2527
+"1686","Embarcadero, San Francisco, CA","554","200 2nd Street, Sunnyvale","11/15/2016 - 12/15/2016, Every day, Daily Average",3315,2646,4153
+"1686","Embarcadero, San Francisco, CA","555","500 Aldo Avenue, Santa Clara","11/15/2016 - 12/15/2016, Every day, Daily Average",3430,2759,4263
+"1686","Embarcadero, San Francisco, CA","557","18800 Devon Avenue, Quito Village, Saratoga","11/15/2016 - 12/15/2016, Every day, Daily Average",3728,3040,4570
+"1686","Embarcadero, San Francisco, CA","561","100 Nancy Court, Old Mountain View, Mountain View","11/15/2016 - 12/15/2016, Every day, Daily Average",3073,2534,3725
+"1686","Embarcadero, San Francisco, CA","562","300 Tioga Court, Greenmeadow, Palo Alto","11/15/2016 - 12/15/2016, Every day, Daily Average",3207,2537,4053
+"1686","Embarcadero, San Francisco, CA","571","400 Wallace Avenue, Vallejo","11/15/2016 - 12/15/2016, Every day, Daily Average",2582,1898,3511
+"1686","Embarcadero, San Francisco, CA","590","300 Hanover Avenue, Cleveland Heights, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1356,1022,1799
+"1686","Embarcadero, San Francisco, CA","591","2500 10th Avenue, Bella Vista, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1328,950,1854
+"1686","Embarcadero, San Francisco, CA","594","5200 Fleming Avenue, Maxwell Park, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1571,1223,2016
+"1686","Embarcadero, San Francisco, CA","595","200 Ghormley Avenue, Brookfield Village, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1688,1238,2300
+"1686","Embarcadero, San Francisco, CA","596","1000 Sterling Avenue, Berkeley Hills, Berkeley","11/15/2016 - 12/15/2016, Every day, Daily Average",2069,1488,2876
+"1686","Embarcadero, San Francisco, CA","597","1600 Eighth Street, Northwest Berkeley, Berkeley","11/15/2016 - 12/15/2016, Every day, Daily Average",1259,940,1686
+"1686","Embarcadero, San Francisco, CA","598","3000 Colby Street, Elmwood, Berkeley","11/15/2016 - 12/15/2016, Every day, Daily Average",1601,1181,2169
+"1686","Embarcadero, San Francisco, CA","599","1800 Yale Drive, Alameda","11/15/2016 - 12/15/2016, Every day, Daily Average",1622,1241,2119
+"1686","Embarcadero, San Francisco, CA","600","800 Walnut Street, Alameda","11/15/2016 - 12/15/2016, Every day, Daily Average",1994,1437,2766
+"1686","Embarcadero, San Francisco, CA","602","22000 Cameron Street, Castro Valley","11/15/2016 - 12/15/2016, Every day, Daily Average",2066,1607,2654
+"1686","Embarcadero, San Francisco, CA","605","24500 Surrey Way, Santa Clara, Hayward","11/15/2016 - 12/15/2016, Every day, Daily Average",2219,1657,2970
+"1686","Embarcadero, San Francisco, CA","608","700 11th Street, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1234,857,1776
+"1686","Embarcadero, San Francisco, CA","609","700 19th Street, West Oakland, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1299,928,1816
+"1686","Embarcadero, San Francisco, CA","610","1600 Webster Street, Downtown, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1580,1138,2193
+"1686","Embarcadero, San Francisco, CA","611","200 Park View Terrace, Adams Point, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1510,1066,2137
+"1686","Embarcadero, San Francisco, CA","612","500 El Dorado Avenue, Grand Lake, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1401,973,2015
+"1686","Embarcadero, San Francisco, CA","613","3900 Fruitvale Avenue, Dimond, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1396,1062,1834
+"1686","Embarcadero, San Francisco, CA","614","3100 San Joaquin Way, Union City","11/15/2016 - 12/15/2016, Every day, Daily Average",2440,1906,3122
+"1686","Embarcadero, San Francisco, CA","618","2200 Floyd Lane, Concord","11/15/2016 - 12/15/2016, Every day, Daily Average",2515,1911,3309
+"1686","Embarcadero, San Francisco, CA","621","1300 South Main Street, Walnut Creek","11/15/2016 - 12/15/2016, Every day, Daily Average",2124,1637,2755
+"1686","Embarcadero, San Francisco, CA","623","19200 San Ramon Valley Boulevard, San Ramon","11/15/2016 - 12/15/2016, Every day, Daily Average",2916,2171,3915
+"1686","Embarcadero, San Francisco, CA","624","3300 Beechwood Drive, Stanley, Lafayette","11/15/2016 - 12/15/2016, Every day, Daily Average",1867,1425,2445
+"1686","Embarcadero, San Francisco, CA","627","800 Marin Road, El Sobrante","11/15/2016 - 12/15/2016, Every day, Daily Average",1857,1301,2649
+"1686","Embarcadero, San Francisco, CA","628","2300 Santa Clara Street, Richmond Annex, Richmond","11/15/2016 - 12/15/2016, Every day, Daily Average",1410,998,1991
+"1686","Embarcadero, San Francisco, CA","629","100 Guerrero Street, Mission Dolores, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1220,871,1708
+"1686","Embarcadero, San Francisco, CA","641","1400 Jackson Street, Nob Hill, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",589,386,896
+"1686","Embarcadero, San Francisco, CA","642","600 Grant Avenue, Chinatown, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",402,234,688
+"1686","Embarcadero, San Francisco, CA","643","200 Myrtle Street, Tenderloin, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1049,755,1457
+"1686","Embarcadero, San Francisco, CA","644","200 Jones Street, Tenderloin, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",947,665,1348
+"1686","Embarcadero, San Francisco, CA","645","1400 Chestnut Street, Marina District, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",726,512,1027
+"1686","Embarcadero, San Francisco, CA","646","500 Clayton Street, Haight-Ashbury, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1527,1165,2001
+"1686","Embarcadero, San Francisco, CA","647","800 Ashbury Street, Ashbury Heights, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1602,1228,2088
+"1686","Embarcadero, San Francisco, CA","648","3800 19th Street, Dolores Heights, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1564,1180,2072
+"1686","Embarcadero, San Francisco, CA","649","1000 Diamond Street, Noe Valley, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1789,1349,2371
+"1686","Embarcadero, San Francisco, CA","650","700 Rhode Island Street, Potrero Hill, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",996,669,1480
+"1686","Embarcadero, San Francisco, CA","651","2900 22nd Street, Mission District, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1474,1066,2037
+"1686","Embarcadero, San Francisco, CA","652","300 Hale Street, Excelsior, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1124,779,1620
+"1686","Embarcadero, San Francisco, CA","653","600 Lisbon Street, Excelsior, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1547,1155,2070
+"1686","Embarcadero, San Francisco, CA","659","200 Staples Avenue, Outer Mission, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1245,890,1740
+"1686","Embarcadero, San Francisco, CA","660","1900 Lawton Street, Sunset District, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1912,1483,2463
+"1686","Embarcadero, San Francisco, CA","661","Building F, Buckingham Way, Lakeshore, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1969,1460,2654
+"1686","Embarcadero, San Francisco, CA","662","1300 46th Avenue, Sunset District, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",2046,1647,2540
+"1686","Embarcadero, San Francisco, CA","663","200 21st Avenue, Central Richmond, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1561,1223,1991
+"1686","Embarcadero, San Francisco, CA","664","700 32nd Avenue, Richmond District, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1809,1438,2274
+"1686","Embarcadero, San Francisco, CA","665","0 Brookdale Avenue, Visitacion Valley, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1445,1065,1960
+"1686","Embarcadero, San Francisco, CA","666","1200 El Camino Del Mar, Sea Cliff, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1797,1466,2202
+"1686","Embarcadero, San Francisco, CA","675","200 Oriente Street, Bayshore Heights, Daly City","11/15/2016 - 12/15/2016, Every day, Daily Average",1545,1111,2148
+"1686","Embarcadero, San Francisco, CA","676","300 Citrus Avenue, Daly City","11/15/2016 - 12/15/2016, Every day, Daily Average",1499,1093,2054
+"1686","Embarcadero, San Francisco, CA","677","0 Ridgefield Avenue, St. Francis, Daly City","11/15/2016 - 12/15/2016, Every day, Daily Average",1618,1214,2154
+"1686","Embarcadero, San Francisco, CA","678","2500 Crestmoor Drive, San Bruno","11/15/2016 - 12/15/2016, Every day, Daily Average",1881,1410,2509
+"1686","Embarcadero, San Francisco, CA","679","800 Paloma Avenue, Burlingame Terrace, Burlingame","11/15/2016 - 12/15/2016, Every day, Daily Average",1986,1543,2554
+"1686","Embarcadero, San Francisco, CA","680","700 South Fremont Street, North Central, San Mateo","11/15/2016 - 12/15/2016, Every day, Daily Average",2146,1628,2827
+"1686","Embarcadero, San Francisco, CA","682","1300 South Norfolk Street, Shoreview, San Mateo","11/15/2016 - 12/15/2016, Every day, Daily Average",2031,1556,2650
+"1686","Embarcadero, San Francisco, CA","683","1100 Polynesia Drive, Foster City","11/15/2016 - 12/15/2016, Every day, Daily Average",2306,1809,2939
+"1686","Embarcadero, San Francisco, CA","684","1100 Vailwood Way, South San Mateo, San Mateo","11/15/2016 - 12/15/2016, Every day, Daily Average",2197,1710,2822
+"1686","Embarcadero, San Francisco, CA","695","400 South Willard Avenue, Central San Jose, San Jose","11/15/2016 - 12/15/2016, Every day, Daily Average",4341,3620,5205
+"1686","Embarcadero, San Francisco, CA","722","800 Hibiscus Lane, West San Jose, San Jose","11/15/2016 - 12/15/2016, Every day, Daily Average",3908,3237,4717
+"1686","Embarcadero, San Francisco, CA","725","20000 Glasgow Drive, Saratoga","11/15/2016 - 12/15/2016, Every day, Daily Average",3463,2936,4084
+"1686","Embarcadero, San Francisco, CA","741","1600 San Luis Avenue, Rex Manor, Mountain View","11/15/2016 - 12/15/2016, Every day, Daily Average",3012,2409,3764
+"1686","Embarcadero, San Francisco, CA","742","4200 Wilkie Way, Charleston Meadow, Palo Alto","11/15/2016 - 12/15/2016, Every day, Daily Average",3339,2629,4240
+"1686","Embarcadero, San Francisco, CA","743","400 Addison Avenue, Professorville, Palo Alto","11/15/2016 - 12/15/2016, Every day, Daily Average",3172,2491,4037
+"1686","Embarcadero, San Francisco, CA","744","Monte Bello Road (Trail), Cupertino","11/15/2016 - 12/15/2016, Every day, Daily Average",3331,2700,4109
+"1686","Embarcadero, San Francisco, CA","749","1400 Magazine Street, Vallejo","11/15/2016 - 12/15/2016, Every day, Daily Average",2388,1776,3209
+"1686","Embarcadero, San Francisco, CA","805","1400 San Rafael Street, Estudillo Estates - Glen, San Leandro","11/15/2016 - 12/15/2016, Every day, Daily Average",1795,1353,2380
+"1686","Embarcadero, San Francisco, CA","808","3000 Adeline Street, Clawson, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1060,751,1494
+"1686","Embarcadero, San Francisco, CA","809","200 Santa Rosa Avenue, Grand Lake, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1242,867,1778
+"1686","Embarcadero, San Francisco, CA","810","2700 Pleasant Street, School, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1400,1003,1953
+"1686","Embarcadero, San Francisco, CA","811","1000 66th Avenue, Coliseum, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1881,1366,2588
+"1686","Embarcadero, San Francisco, CA","812","2000 Francisco Street, North Berkeley, Berkeley","11/15/2016 - 12/15/2016, Every day, Daily Average",1651,1224,2226
+"1686","Embarcadero, San Francisco, CA","813","2500 Parker Street, Elmwood, Berkeley","11/15/2016 - 12/15/2016, Every day, Daily Average",1733,1292,2324
+"1686","Embarcadero, San Francisco, CA","814","1400 168th Avenue, San Leandro","11/15/2016 - 12/15/2016, Every day, Daily Average",1957,1498,2556
+"1686","Embarcadero, San Francisco, CA","817","400 Oxford Way, Belmont","11/15/2016 - 12/15/2016, Every day, Daily Average",2239,1675,2992
+"1686","Embarcadero, San Francisco, CA","818","700 Bay Road, Staumbaugh Heller, Redwood City","11/15/2016 - 12/15/2016, Every day, Daily Average",2486,1954,3162
+"1686","Embarcadero, San Francisco, CA","824","900 West Parr Avenue, San Tomas, Campbell","11/15/2016 - 12/15/2016, Every day, Daily Average",3925,3214,4791
+"1686","Embarcadero, San Francisco, CA","829","7800 Lilac Court, Cupertino","11/15/2016 - 12/15/2016, Every day, Daily Average",3457,2819,4238
+"1686","Embarcadero, San Francisco, CA","834","7700 Lakeville Highway, Petaluma","11/15/2016 - 12/15/2016, Every day, Daily Average",3292,2557,4237
+"1686","Embarcadero, San Francisco, CA","843","2400 Channing Way, Southside, Berkeley","11/15/2016 - 12/15/2016, Every day, Daily Average",1852,1397,2454
+"1686","Embarcadero, San Francisco, CA","858","600 Geneva Avenue, Outer Mission, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1365,977,1906
+"1686","Embarcadero, San Francisco, CA","859","2200 24th Avenue, Sunset District, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",2026,1607,2553
+"1686","Embarcadero, San Francisco, CA","860","2300 Cabrillo Street, Richmond District, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1791,1421,2256
+"1686","Embarcadero, San Francisco, CA","863","2400 Filbert Street, McClymonds, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1431,979,2090
+"1686","Embarcadero, San Francisco, CA","864","22400 Victory Drive, Longwood - Winton Grove, Hayward","11/15/2016 - 12/15/2016, Every day, Daily Average",2151,1634,2829
+"1686","Embarcadero, San Francisco, CA","866","0 Bernard Street, Nob Hill, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",489,316,756
+"1686","Embarcadero, San Francisco, CA","867","2200 Post Street, Western Addition, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1060,770,1457
+"1686","Embarcadero, San Francisco, CA","868","500 Diamond Street, Noe Valley, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1699,1309,2204
+"1686","Embarcadero, San Francisco, CA","870","1800 Marshall Petaluma Road, Petaluma","11/15/2016 - 12/15/2016, Every day, Daily Average",2848,2373,3417
+"1686","Embarcadero, San Francisco, CA","883","Skyline Court, Vallejo","11/15/2016 - 12/15/2016, Every day, Daily Average",2632,1925,3597
+"1686","Embarcadero, San Francisco, CA","885","6300 Colby Street, Upper Telegraph, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1458,1038,2046
+"1686","Embarcadero, San Francisco, CA","886","4400 Telegraph Avenue, Temescal, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1168,836,1631
+"1686","Embarcadero, San Francisco, CA","887","1300 Santa Fe Avenue, Northwest Berkeley, Berkeley","11/15/2016 - 12/15/2016, Every day, Daily Average",1504,1139,1985
+"1686","Embarcadero, San Francisco, CA","888","300 Annette Lane, Santa Clara, Hayward","11/15/2016 - 12/15/2016, Every day, Daily Average",2176,1633,2898
+"1686","Embarcadero, San Francisco, CA","892","2700 Ascot Drive, San Ramon","11/15/2016 - 12/15/2016, Every day, Daily Average",2829,2214,3614
+"1686","Embarcadero, San Francisco, CA","904","400 North Fernwood Circle, Snail, Sunnyvale","11/15/2016 - 12/15/2016, Every day, Daily Average",3435,2689,4386
+"1686","Embarcadero, San Francisco, CA","905","1000 Pine Street, Lower Nob Hill, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",654,441,969
+"1686","Embarcadero, San Francisco, CA","906","2700 Octavia Street, Cow Hollow, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",775,540,1111
+"1686","Embarcadero, San Francisco, CA","907","2500 Turk Street, Richmond District, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1311,981,1750
+"1686","Embarcadero, San Francisco, CA","908","1200 18th Street, Potrero Hill, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",910,607,1362
+"1686","Embarcadero, San Francisco, CA","909","1400 40th Avenue, Sunset District, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",2039,1614,2574
+"1686","Embarcadero, San Francisco, CA","910","700 La Playa Street, Richmond District, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1968,1583,2446
+"1686","Embarcadero, San Francisco, CA","915","300 Dolores Way, Sunshine Gardens, South San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1654,1276,2143
+"1686","Embarcadero, San Francisco, CA","920","100 Whisman Station Drive, Mountain View","11/15/2016 - 12/15/2016, Every day, Daily Average",3376,2579,4418
+"1686","Embarcadero, San Francisco, CA","927","800 Aspen Way, Palo Verde, Palo Alto","11/15/2016 - 12/15/2016, Every day, Daily Average",2883,2309,3599
+"1686","Embarcadero, San Francisco, CA","930","400 Northlake Drive, West San Jose, San Jose","11/15/2016 - 12/15/2016, Every day, Daily Average",4013,3290,4893
+"1686","Embarcadero, San Francisco, CA","931","10300 North Stelling Road, Cupertino","11/15/2016 - 12/15/2016, Every day, Daily Average",3555,2922,4324
+"1686","Embarcadero, San Francisco, CA","939","2900 Central Avenue, Alameda","11/15/2016 - 12/15/2016, Every day, Daily Average",1772,1312,2392
+"1686","Embarcadero, San Francisco, CA","940","25200 Belhaven Street, Southgate, Hayward","11/15/2016 - 12/15/2016, Every day, Daily Average",2194,1678,2868
+"1686","Embarcadero, San Francisco, CA","949","700 Santa Ray Avenue, Lakeshore, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1593,1099,2308
+"1686","Embarcadero, San Francisco, CA","950","Old Sled Trail, Bolinas","11/15/2016 - 12/15/2016, Every day, Daily Average",1267,1000,1604
+"1686","Embarcadero, San Francisco, CA","953","3600 Citrus Avenue, Walnut Creek","11/15/2016 - 12/15/2016, Every day, Daily Average",2727,1903,3905
+"1686","Embarcadero, San Francisco, CA","954","2900 Willow Road, San Pablo","11/15/2016 - 12/15/2016, Every day, Daily Average",1740,1211,2499
+"1686","Embarcadero, San Francisco, CA","957","33200 Central Avenue, Union City","11/15/2016 - 12/15/2016, Every day, Daily Average",2528,1911,3343
+"1686","Embarcadero, San Francisco, CA","958","4900 Hildasue Terrace, Ardenwood, Fremont","11/15/2016 - 12/15/2016, Every day, Daily Average",2606,2009,3378
+"1686","Embarcadero, San Francisco, CA","963","600 Sutter Street, Lower Nob Hill, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",743,513,1074
+"1686","Embarcadero, San Francisco, CA","964","2900 Broderick Street, Cow Hollow, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",943,698,1272
+"1686","Embarcadero, San Francisco, CA","965","200 Topeka Avenue, Silver Terrace, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1522,1120,2067
+"1686","Embarcadero, San Francisco, CA","967","1400 32nd Avenue, Sunset District, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1998,1543,2585
+"1686","Embarcadero, San Francisco, CA","968","3200 Anza Street, Richmond District, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1720,1381,2141
+"1686","Embarcadero, San Francisco, CA","980","6600 Spruce Lane, Dublin","11/15/2016 - 12/15/2016, Every day, Daily Average",2649,2119,3311
+"1686","Embarcadero, San Francisco, CA","983","4100 Fairlands Drive, Pleasanton","11/15/2016 - 12/15/2016, Every day, Daily Average",2971,2257,3910
+"1686","Embarcadero, San Francisco, CA","985","300 West Jack London Boulevard, Livermore","11/15/2016 - 12/15/2016, Every day, Daily Average",3151,2398,4140
+"1686","Embarcadero, San Francisco, CA","1021","3100 Teigland Road, Lafayette","11/15/2016 - 12/15/2016, Every day, Daily Average",2217,1646,2984
+"1686","Embarcadero, San Francisco, CA","1023","1300 Cross Way, Monument Corridor, Concord","11/15/2016 - 12/15/2016, Every day, Daily Average",2715,1937,3805
+"1686","Embarcadero, San Francisco, CA","1025","Briones to Mount Diablo Regional Trail, Walnut Creek","11/15/2016 - 12/15/2016, Every day, Daily Average",1948,1493,2540
+"1686","Embarcadero, San Francisco, CA","1026","2000 San Miguel Drive, Walnut Creek","11/15/2016 - 12/15/2016, Every day, Daily Average",2346,1736,3169
+"1686","Embarcadero, San Francisco, CA","1028","100 Sugar Creek Lane, Alamo","11/15/2016 - 12/15/2016, Every day, Daily Average",2398,1858,3094
+"1686","Embarcadero, San Francisco, CA","1029","200 La Questa Drive, Danville","11/15/2016 - 12/15/2016, Every day, Daily Average",2679,1924,3729
+"1686","Embarcadero, San Francisco, CA","1030","5300 Lawton Avenue, Shafter, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1241,902,1707
+"1686","Embarcadero, San Francisco, CA","1031","1100 Cambridge Drive, Lafayette","11/15/2016 - 12/15/2016, Every day, Daily Average",1796,1359,2371
+"1686","Embarcadero, San Francisco, CA","1032","Shore Trail, Lafayette","11/15/2016 - 12/15/2016, Every day, Daily Average",1752,1329,2308
+"1686","Embarcadero, San Francisco, CA","1035","100 Pinehurst Road, Canyon","11/15/2016 - 12/15/2016, Every day, Daily Average",1997,1583,2519
+"1686","Embarcadero, San Francisco, CA","1036","Wilder Road, Wilder, Orinda","11/15/2016 - 12/15/2016, Every day, Daily Average",1532,1154,2032
+"1686","Embarcadero, San Francisco, CA","1038","Kestrel Loop Trail, Rodeo","11/15/2016 - 12/15/2016, Every day, Daily Average",2136,1562,2920
+"1686","Embarcadero, San Francisco, CA","1044","Rosa Blanca Drive, Pittsburg","11/15/2016 - 12/15/2016, Every day, Daily Average",2832,2124,3775
+"1686","Embarcadero, San Francisco, CA","1045","100 Pearl Street, Oakland Ave - Harrison St, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1247,896,1734
+"1686","Embarcadero, San Francisco, CA","1046","300 Grand Avenue, Adams Point, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1262,892,1784
+"1686","Embarcadero, San Francisco, CA","1047","1700 Eastshore Boulevard, El Cerrito","11/15/2016 - 12/15/2016, Every day, Daily Average",1508,1061,2143
+"1686","Embarcadero, San Francisco, CA","1048","Upper Fire Trail, Berkeley","11/15/2016 - 12/15/2016, Every day, Daily Average",1676,1200,2340
+"1686","Embarcadero, San Francisco, CA","1049","6100 Harwood Avenue, Rockridge, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1370,1000,1876
+"1686","Embarcadero, San Francisco, CA","1050","3700 Towns Court, Pinole","11/15/2016 - 12/15/2016, Every day, Daily Average",2019,1428,2853
+"1686","Embarcadero, San Francisco, CA","1053","500 Haddon Road, Cleveland Heights, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1303,928,1828
+"1686","Embarcadero, San Francisco, CA","1056","100 Lakeside Drive, Downtown Oakland, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1444,1037,2009
+"1686","Embarcadero, San Francisco, CA","1057","6300 Brookside Avenue, Upper Rockridge, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1307,954,1790
+"1686","Embarcadero, San Francisco, CA","1058","6700 Armour Drive, Montclair, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1675,1200,2337
+"1686","Embarcadero, San Francisco, CA","1059","900 East 22nd Street, Clinton, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1382,1015,1881
+"1686","Embarcadero, San Francisco, CA","1060","3600 East 8th Street, South Kennedy Tract, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1592,1080,2345
+"1686","Embarcadero, San Francisco, CA","1062","3300 Davis Street, Peralta Hacienda, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1655,1214,2256
+"1686","Embarcadero, San Francisco, CA","1063","800 54th Avenue, Coliseum Industrial, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1703,1146,2528
+"1686","Embarcadero, San Francisco, CA","1065","3400 Noyo Street, Woodminster, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1747,1312,2325
+"1686","Embarcadero, San Francisco, CA","1066","7200 Doolittle Drive, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1910,1323,2756
+"1686","Embarcadero, San Francisco, CA","1068","1600 Poplar Street, West Oakland, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1195,827,1726
+"1686","Embarcadero, San Francisco, CA","1069","700 Hillside Avenue, Albany","11/15/2016 - 12/15/2016, Every day, Daily Average",1344,945,1911
+"1686","Embarcadero, San Francisco, CA","1070","1000 Cornell Avenue, Albany","11/15/2016 - 12/15/2016, Every day, Daily Average",1420,1066,1890
+"1686","Embarcadero, San Francisco, CA","1071","2000 Rose Street, North Berkeley, Berkeley","11/15/2016 - 12/15/2016, Every day, Daily Average",1815,1348,2443
+"1686","Embarcadero, San Francisco, CA","1072","1700 Chestnut Street, Northwest Berkeley, Berkeley","11/15/2016 - 12/15/2016, Every day, Daily Average",1317,998,1737
+"1686","Embarcadero, San Francisco, CA","1073","100 Panoramic Way, Berkeley","11/15/2016 - 12/15/2016, Every day, Daily Average",1815,1391,2366
+"1686","Embarcadero, San Francisco, CA","1074","2300 Ninth Street, Southwest Berkeley, Berkeley","11/15/2016 - 12/15/2016, Every day, Daily Average",1252,922,1698
+"1686","Embarcadero, San Francisco, CA","1079","0 The Plaza Drive, Claremont, Berkeley","11/15/2016 - 12/15/2016, Every day, Daily Average",1526,1127,2065
+"1686","Embarcadero, San Francisco, CA","1080","Pier 2, Emeryville","11/15/2016 - 12/15/2016, Every day, Daily Average",1028,718,1470
+"1686","Embarcadero, San Francisco, CA","1081","1300 Powell Street, Emeryville","11/15/2016 - 12/15/2016, Every day, Daily Average",1368,917,2040
+"1686","Embarcadero, San Francisco, CA","1082","2000 Clement Avenue, Alameda","11/15/2016 - 12/15/2016, Every day, Daily Average",1692,1204,2377
+"1686","Embarcadero, San Francisco, CA","1083","3000 Calhoun Street, Alameda","11/15/2016 - 12/15/2016, Every day, Daily Average",1936,1407,2662
+"1686","Embarcadero, San Francisco, CA","1084","500 Tarryton Isle, West Alameda, Alameda","11/15/2016 - 12/15/2016, Every day, Daily Average",1881,1463,2418
+"1686","Embarcadero, San Francisco, CA","1085","22200 Eden Canyon Road, Castro Valley","11/15/2016 - 12/15/2016, Every day, Daily Average",2214,1724,2842
+"1686","Embarcadero, San Francisco, CA","1086","20900 Wilbeam Avenue, Castro Valley","11/15/2016 - 12/15/2016, Every day, Daily Average",2266,1670,3073
+"1686","Embarcadero, San Francisco, CA","1087","900 Dowling Boulevard, Broadmoor, San Leandro","11/15/2016 - 12/15/2016, Every day, Daily Average",1755,1315,2341
+"1686","Embarcadero, San Francisco, CA","1089","1700 Wayne Avenue, Davis Tract, San Leandro","11/15/2016 - 12/15/2016, Every day, Daily Average",1801,1315,2465
+"1686","Embarcadero, San Francisco, CA","1090","200 Reva Avenue, Davis Tract, San Leandro","11/15/2016 - 12/15/2016, Every day, Daily Average",1782,1296,2449
+"1686","Embarcadero, San Francisco, CA","1097","15500 Tracy Street, San Lorenzo","11/15/2016 - 12/15/2016, Every day, Daily Average",1977,1503,2599
+"1686","Embarcadero, San Francisco, CA","1098","600 Elgin Street, San Lorenzo","11/15/2016 - 12/15/2016, Every day, Daily Average",1888,1440,2475
+"1686","Embarcadero, San Francisco, CA","1099","30600 Palomares Road, Castro Valley","11/15/2016 - 12/15/2016, Every day, Daily Average",2150,1688,2737
+"1686","Embarcadero, San Francisco, CA","1100","0 Via Diego, San Lorenzo","11/15/2016 - 12/15/2016, Every day, Daily Average",2049,1542,2721
+"1686","Embarcadero, San Francisco, CA","1103","27100 Patrick Avenue, Harder - Tennyson, Hayward","11/15/2016 - 12/15/2016, Every day, Daily Average",2355,1756,3156
+"1686","Embarcadero, San Francisco, CA","1106","30100 Ahern Avenue, Union City","11/15/2016 - 12/15/2016, Every day, Daily Average",2441,1866,3192
+"1686","Embarcadero, San Francisco, CA","1111","John Slough, Novato","11/15/2016 - 12/15/2016, Every day, Daily Average",2792,2237,3484
+"1686","Embarcadero, San Francisco, CA","1114","0 Bahama Reef, Novato","11/15/2016 - 12/15/2016, Every day, Daily Average",2468,2010,3030
+"1686","Embarcadero, San Francisco, CA","1115","Saint Vincents Drive, San Rafael","11/15/2016 - 12/15/2016, Every day, Daily Average",2238,1791,2795
+"1686","Embarcadero, San Francisco, CA","1117","700 Redwood Road, San Anselmo","11/15/2016 - 12/15/2016, Every day, Daily Average",2294,1874,2808
+"1686","Embarcadero, San Francisco, CA","1118","0 South Ridgewood Road, Kentfield","11/15/2016 - 12/15/2016, Every day, Daily Average",2148,1658,2781
+"1686","Embarcadero, San Francisco, CA","1119","0 Locust Avenue, Larkspur","11/15/2016 - 12/15/2016, Every day, Daily Average",1971,1485,2614
+"1686","Embarcadero, San Francisco, CA","1120","0 Spindrift Passage, Corte Madera","11/15/2016 - 12/15/2016, Every day, Daily Average",1755,1393,2210
+"1686","Embarcadero, San Francisco, CA","1121","300 Ridgewood Avenue, Mill Valley","11/15/2016 - 12/15/2016, Every day, Daily Average",1523,1220,1899
+"1686","Embarcadero, San Francisco, CA","1202","4600 Green Valley Road, Fairfield","11/15/2016 - 12/15/2016, Every day, Daily Average",3264,2523,4222
+"1686","Embarcadero, San Francisco, CA","1204","4900 Couples Circle, Fairfield","11/15/2016 - 12/15/2016, Every day, Daily Average",3498,3087,3962
+"1686","Embarcadero, San Francisco, CA","1206","200 Beck Avenue, Fairfield","11/15/2016 - 12/15/2016, Every day, Daily Average",3193,2785,3659
+"1686","Embarcadero, San Francisco, CA","1209","600 Woodside Drive, Woodside Hills, Woodside","11/15/2016 - 12/15/2016, Every day, Daily Average",2863,2313,3542
+"1686","Embarcadero, San Francisco, CA","1210","Cypress Ridge Road, Redwood City","11/15/2016 - 12/15/2016, Every day, Daily Average",2550,2022,3214
+"1686","Embarcadero, San Francisco, CA","1211","700 Coleman Avenue, Menlo Park","11/15/2016 - 12/15/2016, Every day, Daily Average",2768,2208,3469
+"1686","Embarcadero, San Francisco, CA","1236","700 Vine Street, Central San Jose, San Jose","11/15/2016 - 12/15/2016, Every day, Daily Average",4230,3338,5360
+"1686","Embarcadero, San Francisco, CA","1237","400 Lincoln Avenue, Central San Jose, San Jose","11/15/2016 - 12/15/2016, Every day, Daily Average",4325,3562,5250
+"1686","Embarcadero, San Francisco, CA","1244","800 Jackson Street, Chinatown, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",488,310,767
+"1686","Embarcadero, San Francisco, CA","1245","500 Geary Street, Tenderloin, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",821,569,1182
+"1686","Embarcadero, San Francisco, CA","1246","300 McAllister Street, Civic Center, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1076,783,1478
+"1686","Embarcadero, San Francisco, CA","1247","100 Magnolia Street, Marina District, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",792,570,1098
+"1686","Embarcadero, San Francisco, CA","1257","2400 Octavia Street, Pacific Heights, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",815,580,1143
+"1686","Embarcadero, San Francisco, CA","1258","2600 Broadway, Pacific Heights, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",908,645,1277
+"1686","Embarcadero, San Francisco, CA","1259","2100 Divisadero Street, Pacific Heights, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1116,831,1497
+"1686","Embarcadero, San Francisco, CA","1260","1800 Scott Street, Western Addition, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1040,762,1419
+"1686","Embarcadero, San Francisco, CA","1261","700 Presidio Avenue, Western Addition, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1168,864,1578
+"1686","Embarcadero, San Francisco, CA","1265","0 Stoneybrook Avenue, Excelsior, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1161,819,1644
+"1686","Embarcadero, San Francisco, CA","1271","200 Bacon Street, Excelsior, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1120,779,1609
+"1686","Embarcadero, San Francisco, CA","1272","500 Moscow Street, Excelsior, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1576,1135,2187
+"1686","Embarcadero, San Francisco, CA","1273","200 Naglee Avenue, Outer Mission, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1340,963,1863
+"1686","Embarcadero, San Francisco, CA","1275","0 McLaren Avenue, Sea Cliff, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1356,1039,1769
+"1686","Embarcadero, San Francisco, CA","1276","1100 Golden Gate Avenue, Western Addition, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1136,830,1553
+"1686","Embarcadero, San Francisco, CA","1277","300 Hayes Street, Civic Center, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1165,849,1596
+"1686","Embarcadero, San Francisco, CA","1278","100 Noe Street, The Castro, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1381,1033,1845
+"1686","Embarcadero, San Francisco, CA","1279","1100 Folsom Street, South of Market, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1019,686,1512
+"1686","Embarcadero, San Francisco, CA","1280","300 Church Street, Mission District, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1376,1016,1862
+"1686","Embarcadero, San Francisco, CA","1281","700 Guerrero Street, Mission Dolores, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1470,1086,1989
+"1686","Embarcadero, San Francisco, CA","1282","1600 Church Street, Noe Valley, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1486,1063,2076
+"1686","Embarcadero, San Francisco, CA","1291","1500 Balboa Street, Richmond District, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1574,1228,2017
+"1686","Embarcadero, San Francisco, CA","1292","1300 Wright Loop, Presidio, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1107,843,1453
+"1686","Embarcadero, San Francisco, CA","1293","400 Moraga Street, Sunset District, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1883,1461,2425
+"1686","Embarcadero, San Francisco, CA","1294","600 Panorama Drive, Midtown Terrace, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1894,1470,2439
+"1686","Embarcadero, San Francisco, CA","1295","0 Avoca Alley, West of Twin Peaks, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1467,1089,1974
+"1686","Embarcadero, San Francisco, CA","1296","1300 22nd Avenue, Sunset District, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1842,1428,2374
+"1686","Embarcadero, San Francisco, CA","1297","100 Font Boulevard, Lakeshore, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1674,1219,2298
+"1686","Embarcadero, San Francisco, CA","1298","200 3rd Avenue, Richmond District, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1410,1086,1829
+"1686","Embarcadero, San Francisco, CA","1299","8700 Mission Rock Street, South of Market, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",796,498,1270
+"1686","Embarcadero, San Francisco, CA","1300","200 John F Kennedy Drive, Golden Gate Park, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1583,1201,2085
+"1686","Embarcadero, San Francisco, CA","1302","Tasman Drive, Santa Clara","11/15/2016 - 12/15/2016, Every day, Daily Average",3529,2649,4700
+"1686","Embarcadero, San Francisco, CA","1303","0 Rose Orchard Way, North San Jose, San Jose","11/15/2016 - 12/15/2016, Every day, Daily Average",3674,2881,4684
+"1686","Embarcadero, San Francisco, CA","1304","2300 Lafayette Street, Santa Clara","11/15/2016 - 12/15/2016, Every day, Daily Average",3614,2823,4626
+"1686","Embarcadero, San Francisco, CA","1309","300 Kiely Boulevard, West San Jose, San Jose","11/15/2016 - 12/15/2016, Every day, Daily Average",3855,3224,4609
+"1686","Embarcadero, San Francisco, CA","1311","4600 Alex Drive, West San Jose, San Jose","11/15/2016 - 12/15/2016, Every day, Daily Average",3857,3090,4813
+"1686","Embarcadero, San Francisco, CA","1329","1100 Archer Way, San Tomas, Campbell","11/15/2016 - 12/15/2016, Every day, Daily Average",3815,3099,4695
+"1686","Embarcadero, San Francisco, CA","1332","100 Los Patios, Los Gatos","11/15/2016 - 12/15/2016, Every day, Daily Average",3790,3115,4610
+"1686","Embarcadero, San Francisco, CA","1333","21800 Lomita Avenue, Cupertino","11/15/2016 - 12/15/2016, Every day, Daily Average",3414,2820,4132
+"1686","Embarcadero, San Francisco, CA","1337","1100 Jamestown Drive, Sunnyvale West, Sunnyvale","11/15/2016 - 12/15/2016, Every day, Daily Average",3294,2669,4064
+"1686","Embarcadero, San Francisco, CA","1338","700 East Evelyn Avenue, Sunnyvale","11/15/2016 - 12/15/2016, Every day, Daily Average",3396,2681,4300
+"1686","Embarcadero, San Francisco, CA","1339","700 San Juan Drive, San Miguel, Sunnyvale","11/15/2016 - 12/15/2016, Every day, Daily Average",3536,2748,4549
+"1686","Embarcadero, San Francisco, CA","1357","1300 Holly Avenue, Los Altos","11/15/2016 - 12/15/2016, Every day, Daily Average",3227,2666,3904
+"1686","Embarcadero, San Francisco, CA","1359","3000 Waverley Street, Midtown, Palo Alto","11/15/2016 - 12/15/2016, Every day, Daily Average",3101,2508,3833
+"1686","Embarcadero, San Francisco, CA","1360","300 Waverley Street, Downtown North, Palo Alto","11/15/2016 - 12/15/2016, Every day, Daily Average",3290,2672,4050
+"1686","Embarcadero, San Francisco, CA","1361","26200 Catharine Court, Los Altos Hills","11/15/2016 - 12/15/2016, Every day, Daily Average",3373,2763,4116
+"1686","Embarcadero, San Francisco, CA","1363","Reservoir Road, Stanford","11/15/2016 - 12/15/2016, Every day, Daily Average",3248,2622,4022
+"1686","Embarcadero, San Francisco, CA","1437","200 Knowles Avenue, Daly City","11/15/2016 - 12/15/2016, Every day, Daily Average",1503,1105,2043
+"1686","Embarcadero, San Francisco, CA","1438","300 87th Street, St. Francis, Daly City","11/15/2016 - 12/15/2016, Every day, Daily Average",1476,1081,2014
+"1686","Embarcadero, San Francisco, CA","1443","100 Serramonte Boulevard, Serramonte, Daly City","11/15/2016 - 12/15/2016, Every day, Daily Average",1616,1185,2202
+"1686","Embarcadero, San Francisco, CA","1446","700 Larch Avenue, Paradise Valley, South San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1521,1153,2005
+"1686","Embarcadero, San Francisco, CA","1447","200 9th Lane, Downtown, South San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1672,1162,2404
+"1686","Embarcadero, San Francisco, CA","1448","300 Baden Avenue, Downtown, South San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1585,1185,2119
+"1686","Embarcadero, San Francisco, CA","1449","500 Forbes Boulevard, The East Side, South San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1472,1087,1992
+"1686","Embarcadero, San Francisco, CA","1450","0 Brookhaven Court, Fairmont, Pacifica","11/15/2016 - 12/15/2016, Every day, Daily Average",1695,1271,2259
+"1686","Embarcadero, San Francisco, CA","1451","400 Loma Vista Terrace, Sharp Park, Pacifica","11/15/2016 - 12/15/2016, Every day, Daily Average",1616,1294,2017
+"1686","Embarcadero, San Francisco, CA","1452","200 Ramona Avenue, Vallemar, Pacifica","11/15/2016 - 12/15/2016, Every day, Daily Average",1704,1382,2099
+"1686","Embarcadero, San Francisco, CA","1453","2700 Campus Drive, Beresford Park, San Mateo","11/15/2016 - 12/15/2016, Every day, Daily Average",2471,1877,3251
+"1686","Embarcadero, San Francisco, CA","1454","300 East 28th Avenue, South San Mateo, San Mateo","11/15/2016 - 12/15/2016, Every day, Daily Average",2224,1702,2905
+"1686","Embarcadero, San Francisco, CA","1455","1800 Helene Court, East San Mateo, San Mateo","11/15/2016 - 12/15/2016, Every day, Daily Average",2009,1546,2610
+"1686","Embarcadero, San Francisco, CA","1456","Montara Mountain Trail, Pacifica","11/15/2016 - 12/15/2016, Every day, Daily Average",1824,1475,2254
+"1686","Embarcadero, San Francisco, CA","1457","1500 Donner Avenue, San Bruno","11/15/2016 - 12/15/2016, Every day, Daily Average",1900,1428,2527
+"1686","Embarcadero, San Francisco, CA","1458","0 Colorados Drive, Millbrae","11/15/2016 - 12/15/2016, Every day, Daily Average",2066,1495,2855
+"1686","Embarcadero, San Francisco, CA","1459","1400 Vancouver Avenue, Easton Addition, Burlingame","11/15/2016 - 12/15/2016, Every day, Daily Average",1949,1538,2468
+"1686","Embarcadero, San Francisco, CA","1460","400 Williams Place, Central San Mateo, San Mateo","11/15/2016 - 12/15/2016, Every day, Daily Average",2116,1623,2757
+"1686","Embarcadero, San Francisco, CA","1461","200 North Fremont Street, Central San Mateo, San Mateo","11/15/2016 - 12/15/2016, Every day, Daily Average",2047,1547,2706
+"1686","Embarcadero, San Francisco, CA","1464","200 Cupertino Way, South San Mateo, San Mateo","11/15/2016 - 12/15/2016, Every day, Daily Average",2196,1707,2823
+"1686","Embarcadero, San Francisco, CA","1467","2600 Somerset Drive, Belmont","11/15/2016 - 12/15/2016, Every day, Daily Average",2503,1982,3159
+"1686","Embarcadero, San Francisco, CA","1470","1500 Oxford Street, Palm Park, Redwood City","11/15/2016 - 12/15/2016, Every day, Daily Average",2647,2107,3324
+"1686","Embarcadero, San Francisco, CA","1472","200 Oakhurst Place, Suburban Park - Lorelei Manor - Flood Park Triangle, Menlo Park","11/15/2016 - 12/15/2016, Every day, Daily Average",2674,2134,3350
+"1686","Embarcadero, San Francisco, CA","1498","1100 Park Avenue, Emeryville","11/15/2016 - 12/15/2016, Every day, Daily Average",1355,894,2052
+"1686","Embarcadero, San Francisco, CA","1499","900 Atlantic Avenue, Alameda","11/15/2016 - 12/15/2016, Every day, Daily Average",1660,1221,2256
+"1686","Embarcadero, San Francisco, CA","1504","5800 Christie Avenue, Emeryville","11/15/2016 - 12/15/2016, Every day, Daily Average",1092,756,1576
+"1686","Embarcadero, San Francisco, CA","1510","500 Buena Vista Avenue, West Alameda, Alameda","11/15/2016 - 12/15/2016, Every day, Daily Average",1625,1239,2129
+"1686","Embarcadero, San Francisco, CA","1511","2300 Oregon Street, South Berkeley, Berkeley","11/15/2016 - 12/15/2016, Every day, Daily Average",1658,1232,2229
+"1686","Embarcadero, San Francisco, CA","1512","2000 Essex Street, South Berkeley, Berkeley","11/15/2016 - 12/15/2016, Every day, Daily Average",1503,1094,2063
+"1686","Embarcadero, San Francisco, CA","1513","Dwight D. Eisenhower Highway, Berkeley","11/15/2016 - 12/15/2016, Every day, Daily Average",1180,840,1656
+"1686","Embarcadero, San Francisco, CA","1514","1700 McGee Avenue, North Berkeley, Berkeley","11/15/2016 - 12/15/2016, Every day, Daily Average",1464,1096,1954
+"1686","Embarcadero, San Francisco, CA","1515","1700 Scenic Avenue, Northside, Berkeley","11/15/2016 - 12/15/2016, Every day, Daily Average",1859,1390,2485
+"1686","Embarcadero, San Francisco, CA","1516","1300 Ward Street, Southwest Berkeley, Berkeley","11/15/2016 - 12/15/2016, Every day, Daily Average",1264,928,1721
+"1686","Embarcadero, San Francisco, CA","1517","1000 Central Avenue, West Alameda, Alameda","11/15/2016 - 12/15/2016, Every day, Daily Average",1818,1351,2444
+"1686","Embarcadero, San Francisco, CA","1518","1300 67th Street, Southwest Berkeley, Berkeley","11/15/2016 - 12/15/2016, Every day, Daily Average",1224,898,1667
+"1686","Embarcadero, San Francisco, CA","1519","2600 99th Avenue, Toler Heights, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1697,1270,2267
+"1686","Embarcadero, San Francisco, CA","1522","700 Ramona Avenue, Albany","11/15/2016 - 12/15/2016, Every day, Daily Average",1700,1235,2338
+"1686","Embarcadero, San Francisco, CA","1523","1000 Neilson Street, Albany","11/15/2016 - 12/15/2016, Every day, Daily Average",1507,1143,1986
+"1686","Embarcadero, San Francisco, CA","1524","1700 Portland Avenue, Berkeley Hills, Berkeley","11/15/2016 - 12/15/2016, Every day, Daily Average",1726,1273,2338
+"1686","Embarcadero, San Francisco, CA","1525","1400 Edith Street, North Berkeley, Berkeley","11/15/2016 - 12/15/2016, Every day, Daily Average",1653,1264,2160
+"1686","Embarcadero, San Francisco, CA","1526","500 Weldon Avenue, Grand Lake, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1484,1009,2181
+"1686","Embarcadero, San Francisco, CA","1527","200 John Street, Piedmont Avenue, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1595,1093,2326
+"1686","Embarcadero, San Francisco, CA","1528","6400 Gwin Road, Merriewood, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1378,1012,1875
+"1686","Embarcadero, San Francisco, CA","1529","6100 Estates Drive, Montclair, Piedmont","11/15/2016 - 12/15/2016, Every day, Daily Average",1616,1154,2261
+"1686","Embarcadero, San Francisco, CA","1530","0 Blachford Court, Piedmont Pines, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1728,1290,2312
+"1686","Embarcadero, San Francisco, CA","1531","3800 Elston Avenue, Glenview, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1690,1134,2516
+"1686","Embarcadero, San Francisco, CA","1532","600 East 18th Street, Clinton, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1396,1080,1802
+"1686","Embarcadero, San Francisco, CA","1534","600 East 8th Street, Downtown Oakland, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1460,986,2160
+"1686","Embarcadero, San Francisco, CA","1536","2900 Sheffield Avenue, Reservoir Hills, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1374,983,1918
+"1686","Embarcadero, San Francisco, CA","1537","3200 Suter Street, Upper Peralta Creek, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1413,1024,1949
+"1686","Embarcadero, San Francisco, CA","1538","1500 35th Avenue, Fruitvale, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1752,1338,2292
+"1686","Embarcadero, San Francisco, CA","1539","4600 Reinhardt Drive, Redwood Heights, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1847,1262,2701
+"1686","Embarcadero, San Francisco, CA","1541","6200 Foothill Boulevard, Bancroft Business, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1690,1279,2231
+"1686","Embarcadero, San Francisco, CA","1542","1100 77th Avenue, Fitchburg, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",2033,1536,2690
+"1686","Embarcadero, San Francisco, CA","1545","1300 Willow Avenue, Hercules","11/15/2016 - 12/15/2016, Every day, Daily Average",2041,1493,2789
+"1686","Embarcadero, San Francisco, CA","1546","5400 Sobrante Avenue, El Sobrante","11/15/2016 - 12/15/2016, Every day, Daily Average",1979,1396,2804
+"1686","Embarcadero, San Francisco, CA","1547","2600 Brian Road, San Pablo","11/15/2016 - 12/15/2016, Every day, Daily Average",1954,1349,2830
+"1686","Embarcadero, San Francisco, CA","1550","30800 San Clemente Street, Hayward","11/15/2016 - 12/15/2016, Every day, Daily Average",2445,1855,3222
+"1686","Embarcadero, San Francisco, CA","1551","100 Palm Drive, Union City","11/15/2016 - 12/15/2016, Every day, Daily Average",2527,1941,3289
+"1686","Embarcadero, San Francisco, CA","1552","2000 H Street, Union City","11/15/2016 - 12/15/2016, Every day, Daily Average",2623,2107,3264
+"1686","Embarcadero, San Francisco, CA","1555","3600 Johnson Court, Northgate, Fremont","11/15/2016 - 12/15/2016, Every day, Daily Average",2719,2092,3532
+"1686","Embarcadero, San Francisco, CA","1556","3400 Beard Road, Northgate, Fremont","11/15/2016 - 12/15/2016, Every day, Daily Average",2638,2013,3456
+"1686","Embarcadero, San Francisco, CA","1557","7000 Auto Mall Parkway, Fremont","11/15/2016 - 12/15/2016, Every day, Daily Average",3115,2439,3977
+"1686","Embarcadero, San Francisco, CA","1559","500 Embarcadero West, Downtown Oakland, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1331,917,1931
+"1686","Embarcadero, San Francisco, CA","1567","Lake Boulevard, Newark","11/15/2016 - 12/15/2016, Every day, Daily Average",2696,2069,3511
+"1686","Embarcadero, San Francisco, CA","1570","0 Tehan Canyon Road, Pleasanton","11/15/2016 - 12/15/2016, Every day, Daily Average",2380,1880,3011
+"1686","Embarcadero, San Francisco, CA","1571","500 Stonebridge Court, Pleasant Hill","11/15/2016 - 12/15/2016, Every day, Daily Average",2180,1687,2816
+"1686","Embarcadero, San Francisco, CA","1574","4200 Dublin Boulevard, Dublin","11/15/2016 - 12/15/2016, Every day, Daily Average",2777,2231,3455
+"1686","Embarcadero, San Francisco, CA","1575","7600 Brighton Drive, Dublin","11/15/2016 - 12/15/2016, Every day, Daily Average",2819,2069,3840
+"1686","Embarcadero, San Francisco, CA","1577","800 West Tower Avenue, Alameda","11/15/2016 - 12/15/2016, Every day, Daily Average",1643,1201,2247
+"1686","Embarcadero, San Francisco, CA","1594","400 Pamela Court, Burbank, Hayward","11/15/2016 - 12/15/2016, Every day, Daily Average",2220,1777,2773
+"1686","Embarcadero, San Francisco, CA","1597","26200 Regal Avenue, Harder - Tennyson, Hayward","11/15/2016 - 12/15/2016, Every day, Daily Average",2311,1720,3104
+"1686","Embarcadero, San Francisco, CA","1604","200 John Glenn Drive, Concord","11/15/2016 - 12/15/2016, Every day, Daily Average",2391,1862,3070
+"1686","Embarcadero, San Francisco, CA","1608","1100 Studebaker Road, Saranap, Walnut Creek","11/15/2016 - 12/15/2016, Every day, Daily Average",1966,1497,2581
+"1686","Embarcadero, San Francisco, CA","1609","500 Lakewood Circle, Walnut Creek","11/15/2016 - 12/15/2016, Every day, Daily Average",2386,1750,3251
+"1686","Embarcadero, San Francisco, CA","1613","1800 Castle Gate Road, Walnut Creek","11/15/2016 - 12/15/2016, Every day, Daily Average",2207,1667,2921
+"1686","Embarcadero, San Francisco, CA","1614","1500 Detroit Avenue, Monument Corridor, Concord","11/15/2016 - 12/15/2016, Every day, Daily Average",2499,1803,3463
+"1686","Embarcadero, San Francisco, CA","1617","1000 Norwich Place, Ygnacio Valley, Walnut Creek","11/15/2016 - 12/15/2016, Every day, Daily Average",2562,1849,3549
+"1686","Embarcadero, San Francisco, CA","1618","500 North San Carlos Drive, Walnut Creek","11/15/2016 - 12/15/2016, Every day, Daily Average",2282,1767,2946
+"1686","Embarcadero, San Francisco, CA","1619","600 Castle Rock Road, Walnut Creek","11/15/2016 - 12/15/2016, Every day, Daily Average",2516,1823,3472
+"1686","Embarcadero, San Francisco, CA","1628","800 Orange Blossom Way, Danville","11/15/2016 - 12/15/2016, Every day, Daily Average",2651,2037,3449
+"1686","Embarcadero, San Francisco, CA","1629","500 Peru Avenue, Excelsior, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1339,992,1806
+"1686","Embarcadero, San Francisco, CA","1630","800 Bacon Street, Excelsior, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1378,964,1969
+"1686","Embarcadero, San Francisco, CA","1632","1300 Dutch Mill Drive, Danville","11/15/2016 - 12/15/2016, Every day, Daily Average",2840,2207,3653
+"1686","Embarcadero, San Francisco, CA","1633","2800 Fountainhead Drive, San Ramon","11/15/2016 - 12/15/2016, Every day, Daily Average",2658,2011,3512
+"1686","Embarcadero, San Francisco, CA","1634","500 Hemme Avenue, Alamo","11/15/2016 - 12/15/2016, Every day, Daily Average",2401,1812,3180
+"1686","Embarcadero, San Francisco, CA","1635","1800 Lackland Drive, Alamo","11/15/2016 - 12/15/2016, Every day, Daily Average",2502,1970,3177
+"1686","Embarcadero, San Francisco, CA","1639","0 Curtis Street, Crocker-Amazon, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1569,1190,2068
+"1686","Embarcadero, San Francisco, CA","1640","Sand Hill Trail, Danville","11/15/2016 - 12/15/2016, Every day, Daily Average",2716,2198,3354
+"1686","Embarcadero, San Francisco, CA","1646","100 Murray Street, Bernal Heights, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1126,795,1594
+"1686","Embarcadero, San Francisco, CA","1647","500 Brunswick Street, Crocker-Amazon, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1512,1122,2036
+"1686","Embarcadero, San Francisco, CA","1648","Historic Trail, Inner Sunset, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1824,1415,2350
+"1686","Embarcadero, San Francisco, CA","1649","1300 10th Avenue, Inner Sunset, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1750,1351,2265
+"1686","Embarcadero, San Francisco, CA","1650","1900 16th Avenue, Inner Sunset, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1978,1592,2457
+"1686","Embarcadero, San Francisco, CA","1651","600 39th Street, North & East, Richmond","11/15/2016 - 12/15/2016, Every day, Daily Average",1625,1133,2330
+"1686","Embarcadero, San Francisco, CA","1653","Petrolite Street, Richmond","11/15/2016 - 12/15/2016, Every day, Daily Average",1850,1312,2608
+"1686","Embarcadero, San Francisco, CA","1654","Regatta Boulevard, Marina Bay, Richmond","11/15/2016 - 12/15/2016, Every day, Daily Average",1626,1066,2479
+"1686","Embarcadero, San Francisco, CA","1655","100 South 35th Street, Pullman, Richmond","11/15/2016 - 12/15/2016, Every day, Daily Average",1555,1084,2229
+"1686","Embarcadero, San Francisco, CA","1658","6800 Fairmount Avenue, El Cerrito","11/15/2016 - 12/15/2016, Every day, Daily Average",1498,1144,1960
+"1686","Embarcadero, San Francisco, CA","1674","200 Hyde Street, Tenderloin, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1003,730,1377
+"1686","Embarcadero, San Francisco, CA","1677","200 Funston Road, Marina District, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",674,478,949
+"1686","Embarcadero, San Francisco, CA","1682","700 Haight Street, Lower Haight, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1508,1163,1953
+"1686","Embarcadero, San Francisco, CA","1685","0 Dwinelle Court, Alameda","11/15/2016 - 12/15/2016, Every day, Daily Average",2109,1552,2865
+"1686","Embarcadero, San Francisco, CA","1686","0 The Embarcadero, North Beach, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",192,86,424
+"1686","Embarcadero, San Francisco, CA","1687","1400 Powell Street, Russian Hill, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",388,231,650
+"1686","Embarcadero, San Francisco, CA","1688","1100 Taylor Street, Nob Hill, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",592,393,889
+"1686","Embarcadero, San Francisco, CA","1689","200 Sutter Street, Financial District, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",249,100,617
+"1686","Embarcadero, San Francisco, CA","1690","900 Pine Street, Lower Nob Hill, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",575,376,879
+"1686","Embarcadero, San Francisco, CA","1691","200 O'Farrell Street, Tenderloin, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",878,614,1254
+"1686","Embarcadero, San Francisco, CA","1692","800 Mission Street, South of Market, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",837,550,1272
+"1686","Embarcadero, San Francisco, CA","1694","700 Folsom Street, South of Market, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",733,485,1106
+"1686","Embarcadero, San Francisco, CA","1695","5th Street, Treasure Island, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",744,475,1163
+"1686","Embarcadero, San Francisco, CA","1696","4700 18th Street, Eureka Valley, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1646,1256,2156
+"1686","Embarcadero, San Francisco, CA","1697","400 Burnett Avenue, Twin Peaks, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1789,1381,2316
+"1686","Embarcadero, San Francisco, CA","1698","3500 20th Street, Mission District, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1438,1060,1950
+"1686","Embarcadero, San Francisco, CA","1699","900 Sanchez Street, Dolores Heights, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1658,1261,2178
+"1686","Embarcadero, San Francisco, CA","1700","3900 25th Street, Noe Valley, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1613,1176,2212
+"1686","Embarcadero, San Francisco, CA","1701","600 28th Street, Noe Valley, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1791,1332,2407
+"1686","Embarcadero, San Francisco, CA","1702","100 Randall Street, Glen Park, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1476,1061,2052
+"1686","Embarcadero, San Francisco, CA","1703","2600 21st Street, Mission District, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1011,681,1500
+"1686","Embarcadero, San Francisco, CA","1704","2900 24th Street, Mission District, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1115,790,1573
+"1686","Embarcadero, San Francisco, CA","1705","0 Conkling Street, Silver Terrace, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1022,706,1477
+"1686","Embarcadero, San Francisco, CA","1706","700 Bernal Heights Boulevard, Bernal Heights, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1228,878,1715
+"1686","Embarcadero, San Francisco, CA","1707","100 Appleton Avenue, Bernal Heights, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1459,1052,2023
+"1686","Embarcadero, San Francisco, CA","1710","100 Morningside Drive, Lakeshore, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",2038,1569,2646
+"1686","Embarcadero, San Francisco, CA","1718","300 Arballo Drive, Lakeshore, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1857,1346,2560
+"1686","Embarcadero, San Francisco, CA","1720","2200 47th Avenue, Sunset District, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",2124,1708,2641
+"1686","Embarcadero, San Francisco, CA","1721","Bayfront Expressway, Menlo Park","11/15/2016 - 12/15/2016, Every day, Daily Average",2624,2042,3371
+"1686","Embarcadero, San Francisco, CA","1722","200 9th Avenue, Richmond District, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1508,1172,1939
+"1686","Embarcadero, San Francisco, CA","1723","600 Burrows Avenue, San Bruno","11/15/2016 - 12/15/2016, Every day, Daily Average",1892,1429,2504
+"1686","Embarcadero, San Francisco, CA","1724","2200 Euclid Avenue, East Palo Alto","11/15/2016 - 12/15/2016, Every day, Daily Average",2695,2079,3492
+"1686","Embarcadero, San Francisco, CA","1725","1200 San Mateo Drive, Menlo Park","11/15/2016 - 12/15/2016, Every day, Daily Average",3240,2684,3910
+"1686","Embarcadero, San Francisco, CA","1726","1700 Oakdell Drive, Menlo Park","11/15/2016 - 12/15/2016, Every day, Daily Average",3424,2858,4101
+"1686","Embarcadero, San Francisco, CA","1728","800 Easton Avenue, San Bruno","11/15/2016 - 12/15/2016, Every day, Daily Average",1964,1474,2615
+"1686","Embarcadero, San Francisco, CA","1729","1500 Adrian Road, Ingold - Milldale, Burlingame","11/15/2016 - 12/15/2016, Every day, Daily Average",1773,1342,2341
+"1686","Embarcadero, San Francisco, CA","1730","0 Park Lane, Brisbane","11/15/2016 - 12/15/2016, Every day, Daily Average",1305,941,1809
+"1686","Embarcadero, San Francisco, CA","1731","0 Orange Court, Hillside, Daly City","11/15/2016 - 12/15/2016, Every day, Daily Average",1704,1315,2206
+"1686","Embarcadero, San Francisco, CA","1732","0 Longview Drive, Westlake, Daly City","11/15/2016 - 12/15/2016, Every day, Daily Average",1680,1252,2252
+"1686","Embarcadero, San Francisco, CA","1733","0 Barry Lane, West Atherton, Atherton","11/15/2016 - 12/15/2016, Every day, Daily Average",3022,2393,3814
+"1686","Embarcadero, San Francisco, CA","1734","0 Flood Circle, Lindenwood, Atherton","11/15/2016 - 12/15/2016, Every day, Daily Average",2764,2239,3411
+"1686","Embarcadero, San Francisco, CA","1735","100 Clark Drive, Central San Mateo, San Mateo","11/15/2016 - 12/15/2016, Every day, Daily Average",2181,1707,2785
+"1686","Embarcadero, San Francisco, CA","1736","2500 Sand Hill Road, Sharon Heights, Menlo Park","11/15/2016 - 12/15/2016, Every day, Daily Average",3032,2477,3710
+"1686","Embarcadero, San Francisco, CA","1737","700 Westridge Drive, Central Portola Valley, Portola Valley","11/15/2016 - 12/15/2016, Every day, Daily Average",2992,2408,3717
+"1686","Embarcadero, San Francisco, CA","1738","1000 Wildwood Avenue, Westlake, Daly City","11/15/2016 - 12/15/2016, Every day, Daily Average",1813,1300,2527
+"1686","Embarcadero, San Francisco, CA","1739","0 Reiner Street, Daly City","11/15/2016 - 12/15/2016, Every day, Daily Average",1539,1115,2123
+"1686","Embarcadero, San Francisco, CA","1740","800 Campus Drive, Serramonte, Daly City","11/15/2016 - 12/15/2016, Every day, Daily Average",1633,1210,2203
+"1686","Embarcadero, San Francisco, CA","1741","200 Morton Drive, Serramonte, Daly City","11/15/2016 - 12/15/2016, Every day, Daily Average",1871,1438,2432
+"1686","Embarcadero, San Francisco, CA","1742","Junipero Serra Boulevard, Serra Highlands, South San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1748,1341,2277
+"1686","Embarcadero, San Francisco, CA","1743","600 San Bruno Avenue East, San Bruno","11/15/2016 - 12/15/2016, Every day, Daily Average",1616,1220,2140
+"1686","Embarcadero, San Francisco, CA","1744","1200 Helen Drive, Millbrae","11/15/2016 - 12/15/2016, Every day, Daily Average",1986,1508,2615
+"1686","Embarcadero, San Francisco, CA","1745","Ed Taylor Trail, Burlingame Hills, Burlingame","11/15/2016 - 12/15/2016, Every day, Daily Average",2077,1547,2787
+"1686","Embarcadero, San Francisco, CA","1746","600 North Delaware Street, Central San Mateo, San Mateo","11/15/2016 - 12/15/2016, Every day, Daily Average",2064,1549,2748
+"1686","Embarcadero, San Francisco, CA","1747","1700 Coyote Point Drive, Shoreview, San Mateo","11/15/2016 - 12/15/2016, Every day, Daily Average",1941,1474,2554
+"1686","Embarcadero, San Francisco, CA","1748","500 Carmel Circle, Baywood - Aragon, San Mateo","11/15/2016 - 12/15/2016, Every day, Daily Average",2286,1753,2979
+"1686","Embarcadero, San Francisco, CA","1749","1600 Parrott Drive, South San Mateo, San Mateo","11/15/2016 - 12/15/2016, Every day, Daily Average",2507,1957,3211
+"1686","Embarcadero, San Francisco, CA","1750","1700 Yorktown Road, San Mateo","11/15/2016 - 12/15/2016, Every day, Daily Average",2383,1869,3037
+"1686","Embarcadero, San Francisco, CA","1752","200 West 25th Avenue, South San Mateo, San Mateo","11/15/2016 - 12/15/2016, Every day, Daily Average",2273,1765,2926
+"1686","Embarcadero, San Francisco, CA","1755","3000 Los Prados Street, East San Mateo, San Mateo","11/15/2016 - 12/15/2016, Every day, Daily Average",2165,1665,2813
+"1686","Embarcadero, San Francisco, CA","1756","2400 Casa Bona Avenue, Belmont","11/15/2016 - 12/15/2016, Every day, Daily Average",2461,1975,3065
+"1686","Embarcadero, San Francisco, CA","1759","600 Sylvan Way, Emerald Hills","11/15/2016 - 12/15/2016, Every day, Daily Average",2680,2149,3340
+"1686","Embarcadero, San Francisco, CA","1761","100 Fulton Street, Mount Carmel, Redwood City","11/15/2016 - 12/15/2016, Every day, Daily Average",2605,2096,3237
+"1686","Embarcadero, San Francisco, CA","1762","500 Summit Spring Road, Woodside","11/15/2016 - 12/15/2016, Every day, Daily Average",2738,2198,3409
+"1686","Embarcadero, San Francisco, CA","1764","300 26th Avenue, Central Richmond, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1659,1323,2079
+"1686","Embarcadero, San Francisco, CA","1768","800 Balboa Street, Richmond District, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1569,1225,2008
+"1686","Embarcadero, San Francisco, CA","1770","1800 32nd Avenue, Sunset District, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",2118,1683,2664
+"1686","Embarcadero, San Francisco, CA","1771","0 Lopez Avenue, West of Twin Peaks, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1993,1573,2523
+"1686","Embarcadero, San Francisco, CA","1772","0 Rockaway Avenue, West of Twin Peaks, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1856,1419,2426
+"1686","Embarcadero, San Francisco, CA","1773","0 Majestic Avenue, Ingleside, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1282,914,1797
+"1686","Embarcadero, San Francisco, CA","1774","200 Byxbee Street, Oceanview, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1651,1238,2200
+"1686","Embarcadero, San Francisco, CA","1775","100 Farallones Street, Oceanview, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1341,968,1857
+"1686","Embarcadero, San Francisco, CA","1776","1800 25th Avenue, Sunset District, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1948,1547,2452
+"1686","Embarcadero, San Francisco, CA","1777","7100 Geary Boulevard, Richmond District, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1833,1471,2284
+"1686","Embarcadero, San Francisco, CA","1778","7700 Geary Boulevard, Richmond District, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1872,1519,2306
+"1686","Embarcadero, San Francisco, CA","1779","500 John Muir Drive, Lakeshore, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1714,1255,2340
+"1686","Embarcadero, San Francisco, CA","1780","1600 McKinnon Avenue, Bayview, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1472,1061,2040
+"1686","Embarcadero, San Francisco, CA","1781","1100 Carolina Street, Potrero Hill, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",973,661,1431
+"1686","Embarcadero, San Francisco, CA","1783","1500 Mansell Street, Visitacion Valley, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1429,1030,1981
+"1686","Embarcadero, San Francisco, CA","1825","1500 Dominion Avenue, Sunnyvale","11/15/2016 - 12/15/2016, Every day, Daily Average",3327,2737,4044
+"1686","Embarcadero, San Francisco, CA","1830","300 South Sunnyvale Avenue, Heritage District, Sunnyvale","11/15/2016 - 12/15/2016, Every day, Daily Average",3533,2828,4413
+"1686","Embarcadero, San Francisco, CA","1831","1100 East Arques Avenue, Sunnyvale","11/15/2016 - 12/15/2016, Every day, Daily Average",3490,2761,4410
+"1686","Embarcadero, San Francisco, CA","1832","500 Sullivan Drive, Mountain View","11/15/2016 - 12/15/2016, Every day, Daily Average",3315,2648,4149
+"1686","Embarcadero, San Francisco, CA","1833","500 Logue Avenue, Mountain View","11/15/2016 - 12/15/2016, Every day, Daily Average",3187,2519,4031
+"1686","Embarcadero, San Francisco, CA","1834","500 Castro Street, Old Mountain View, Mountain View","11/15/2016 - 12/15/2016, Every day, Daily Average",3184,2571,3941
+"1686","Embarcadero, San Francisco, CA","1838","500 Chesley Avenue, Waverly Park, Mountain View","11/15/2016 - 12/15/2016, Every day, Daily Average",3247,2626,4013
+"1686","Embarcadero, San Francisco, CA","1848","600 Campbell Avenue, Los Altos","11/15/2016 - 12/15/2016, Every day, Daily Average",3569,2904,4384
+"1686","Embarcadero, San Francisco, CA","1849","300 South San Antonio Road, North Los Altos, Los Altos","11/15/2016 - 12/15/2016, Every day, Daily Average",3928,3087,4998
+"1686","Embarcadero, San Francisco, CA","1851","100 Primrose Way, Duveneck - St. Francis, Palo Alto","11/15/2016 - 12/15/2016, Every day, Daily Average",2853,2249,3619
+"1686","Embarcadero, San Francisco, CA","1852","0 Ryan Court, Stanford","11/15/2016 - 12/15/2016, Every day, Daily Average",3303,2658,4103
+"1686","Embarcadero, San Francisco, CA","1853","1400 Club View Terrace, Country Club, Los Altos","11/15/2016 - 12/15/2016, Every day, Daily Average",3532,2582,4830
+"1686","Embarcadero, San Francisco, CA","1869","12900 Tripoli Court, Los Altos Hills","11/15/2016 - 12/15/2016, Every day, Daily Average",3339,2723,4093
+"1686","Embarcadero, San Francisco, CA","1891","800 Jury Court, North San Jose, San Jose","11/15/2016 - 12/15/2016, Every day, Daily Average",3810,3017,4810
+"1686","Embarcadero, San Francisco, CA","1903","Spring Street, Central San Jose, San Jose","11/15/2016 - 12/15/2016, Every day, Daily Average",4047,3077,5321
+"1686","Embarcadero, San Francisco, CA","1917","4900 Moorpark Avenue, Strawberry Park, San Jose","11/15/2016 - 12/15/2016, Every day, Daily Average",3831,3183,4609
+"1686","Embarcadero, San Francisco, CA","1919","300 Mac Arthur Avenue, Central San Jose, San Jose","11/15/2016 - 12/15/2016, Every day, Daily Average",4299,3537,5223
+"1686","Embarcadero, San Francisco, CA","1920","1800 Fruitdale Avenue, Central San Jose, San Jose","11/15/2016 - 12/15/2016, Every day, Daily Average",4189,3540,4955
+"1686","Embarcadero, San Francisco, CA","1935","100 Arroyo Grande Way, Los Gatos","11/15/2016 - 12/15/2016, Every day, Daily Average",3938,3201,4843
+"1686","Embarcadero, San Francisco, CA","1936","14400 Chester Avenue, Saratoga","11/15/2016 - 12/15/2016, Every day, Daily Average",3545,2944,4267
+"1686","Embarcadero, San Francisco, CA","1937","19500 Dorchester Drive, Golden Triangle, Saratoga","11/15/2016 - 12/15/2016, Every day, Daily Average",3629,2945,4470
+"1686","Embarcadero, San Francisco, CA","1944","700 Girard Street, Visitacion Valley, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1159,813,1651
+"1686","Embarcadero, San Francisco, CA","1949","7100 Rainbow Drive, West San Jose, San Jose","11/15/2016 - 12/15/2016, Every day, Daily Average",3543,2881,4356
+"1686","Embarcadero, San Francisco, CA","1951","400 Delta Street, Visitacion Valley, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1618,1084,2414
+"1686","Embarcadero, San Francisco, CA","1982","100 Monte Verde Drive, Vacaville","11/15/2016 - 12/15/2016, Every day, Daily Average",3748,3333,4213
+"1686","Embarcadero, San Francisco, CA","1995","7600 Pleasants Valley Road, Vacaville","11/15/2016 - 12/15/2016, Every day, Daily Average",3617,3201,4086
+"1686","Embarcadero, San Francisco, CA","1996","200 Riverview Drive, Vallejo","11/15/2016 - 12/15/2016, Every day, Daily Average",2821,2059,3864
+"1686","Embarcadero, San Francisco, CA","2000","200 Genoa Court, Vallejo","11/15/2016 - 12/15/2016, Every day, Daily Average",2815,2076,3816
+"1686","Embarcadero, San Francisco, CA","2020","200 Kirkland Ranch Road, American Canyon","11/15/2016 - 12/15/2016, Every day, Daily Average",3154,2335,4259
+"1686","Embarcadero, San Francisco, CA","2022","200 Clearview Drive, Vallejo","11/15/2016 - 12/15/2016, Every day, Daily Average",2325,1718,3146
+"1686","Embarcadero, San Francisco, CA","2023","0 Midway Street, Vallejo","11/15/2016 - 12/15/2016, Every day, Daily Average",2449,1821,3291
+"1686","Embarcadero, San Francisco, CA","2029","4900 Ridgefield Circle, Fairfield","11/15/2016 - 12/15/2016, Every day, Daily Average",3166,2374,4221
+"1686","Embarcadero, San Francisco, CA","2074","1500 Green Island Road, American Canyon","11/15/2016 - 12/15/2016, Every day, Daily Average",3503,2738,4481
+"1686","Embarcadero, San Francisco, CA","2105","300 Olive Avenue, Novato","11/15/2016 - 12/15/2016, Every day, Daily Average",2579,2104,3160
+"1686","Embarcadero, San Francisco, CA","2115","100 Sequoia Glen Lane, Novato","11/15/2016 - 12/15/2016, Every day, Daily Average",2401,2043,2821
+"1686","Embarcadero, San Francisco, CA","2116","0 Waterbury Lane, Novato","11/15/2016 - 12/15/2016, Every day, Daily Average",2381,1917,2955
+"1686","Embarcadero, San Francisco, CA","2117","0 Oxford Drive, San Rafael","11/15/2016 - 12/15/2016, Every day, Daily Average",2100,1720,2563
+"1686","Embarcadero, San Francisco, CA","2118","2500 Lucas Valley Road, San Rafael","11/15/2016 - 12/15/2016, Every day, Daily Average",2306,1839,2890
+"1686","Embarcadero, San Francisco, CA","2119","300 California Avenue, San Rafael","11/15/2016 - 12/15/2016, Every day, Daily Average",2271,1869,2759
+"1686","Embarcadero, San Francisco, CA","2120","0 Reservoir Road, San Rafael","11/15/2016 - 12/15/2016, Every day, Daily Average",2057,1625,2602
+"1686","Embarcadero, San Francisco, CA","2121","2900 Kerner Boulevard, San Rafael","11/15/2016 - 12/15/2016, Every day, Daily Average",1966,1526,2532
+"1686","Embarcadero, San Francisco, CA","2127","0 Hamilton Drive, Mill Valley","11/15/2016 - 12/15/2016, Every day, Daily Average",1591,1273,1987
+"1686","Embarcadero, San Francisco, CA","2131","700 Vía Casitas, Greenbrae, Larkspur","11/15/2016 - 12/15/2016, Every day, Daily Average",1966,1530,2525
+"1686","Embarcadero, San Francisco, CA","2132","300 Vista Grande, Greenbrae, Kentfield","11/15/2016 - 12/15/2016, Every day, Daily Average",1895,1476,2432
+"1686","Embarcadero, San Francisco, CA","2133","600 Manzanita Avenue, Corte Madera","11/15/2016 - 12/15/2016, Every day, Daily Average",1755,1378,2234
+"1686","Embarcadero, San Francisco, CA","2134","300 San Rafael Avenue, Belvedere, Belvedere Tiburon","11/15/2016 - 12/15/2016, Every day, Daily Average",2084,1722,2520
+"1686","Embarcadero, San Francisco, CA","2135","0 Fairway Drive, Mill Valley","11/15/2016 - 12/15/2016, Every day, Daily Average",1926,1544,2401
+"1686","Embarcadero, San Francisco, CA","2136","300 Carrera Drive, Mill Valley","11/15/2016 - 12/15/2016, Every day, Daily Average",1477,1192,1829
+"1686","Embarcadero, San Francisco, CA","2137","0 West Harbor Drive, Sausalito","11/15/2016 - 12/15/2016, Every day, Daily Average",1412,1143,1742
+"1686","Embarcadero, San Francisco, CA","2145","500 Downing Avenue, Central San Jose, San Jose","11/15/2016 - 12/15/2016, Every day, Daily Average",3985,3492,4547
+"1686","Embarcadero, San Francisco, CA","2155","3100 North Shoreline Boulevard, Mountain View","11/15/2016 - 12/15/2016, Every day, Daily Average",2918,2246,3790
+"1686","Embarcadero, San Francisco, CA","2157","6200 Smith Avenue, Newark","11/15/2016 - 12/15/2016, Every day, Daily Average",2890,2234,3738
+"1686","Embarcadero, San Francisco, CA","2169","1000 Liege Terrace, Morse Park, Sunnyvale","11/15/2016 - 12/15/2016, Every day, Daily Average",3279,2614,4111
+"1686","Embarcadero, San Francisco, CA","2170","2500 Junction Avenue, North San Jose, San Jose","11/15/2016 - 12/15/2016, Every day, Daily Average",3717,2910,4747
+"1686","Embarcadero, San Francisco, CA","2171","1400 Airport Boulevard, North San Jose, San Jose","11/15/2016 - 12/15/2016, Every day, Daily Average",3727,2901,4787
+"1686","Embarcadero, San Francisco, CA","2187","4200 Middle Harbor Road, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1120,777,1612
+"1686","Embarcadero, San Francisco, CA","2197","1700 Monsanto Way, Concord","11/15/2016 - 12/15/2016, Every day, Daily Average",2541,1948,3312
+"1686","Embarcadero, San Francisco, CA","2199","1900 Hughes Drive, Monument Corridor, Concord","11/15/2016 - 12/15/2016, Every day, Daily Average",2255,1740,2922
+"1686","Embarcadero, San Francisco, CA","2200","2500 Cedro Lane, Ygnacio Valley, Walnut Creek","11/15/2016 - 12/15/2016, Every day, Daily Average",2610,1857,3667
+"1686","Embarcadero, San Francisco, CA","2202","Bollinger Estates Court, San Ramon","11/15/2016 - 12/15/2016, Every day, Daily Average",2540,1896,3402
+"1686","Embarcadero, San Francisco, CA","2203","Spengler Trail, Lafayette","11/15/2016 - 12/15/2016, Every day, Daily Average",2172,1652,2855
+"1686","Embarcadero, San Francisco, CA","2205","0 Ashbrook Place, Corliss, Moraga","11/15/2016 - 12/15/2016, Every day, Daily Average",1954,1574,2425
+"1686","Embarcadero, San Francisco, CA","2210","200 South 17th Street, Coronado, Richmond","11/15/2016 - 12/15/2016, Every day, Daily Average",1702,1131,2559
+"1686","Embarcadero, San Francisco, CA","2212","500 63rd Street, Upper Telegraph, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1403,1087,1810
+"1686","Embarcadero, San Francisco, CA","2213","800 40th Street, Longfellow, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1151,816,1623
+"1686","Embarcadero, San Francisco, CA","2214","1900 Melvin Road, Oakmore, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1676,1228,2286
+"1686","Embarcadero, San Francisco, CA","2215","1500 East 31st Street, Tuxedo, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1347,961,1886
+"1686","Embarcadero, San Francisco, CA","2216","2800 Morgan Avenue, Lincoln Highlands, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1693,1199,2389
+"1686","Embarcadero, San Francisco, CA","2218","5300 Underwood Avenue, Mills College, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1510,1102,2067
+"1686","Embarcadero, San Francisco, CA","2222","Junipero Serra Freeway, Cupertino","11/15/2016 - 12/15/2016, Every day, Daily Average",3548,2911,4324
+"1686","Embarcadero, San Francisco, CA","2223","1900 Scott Lane, Woodland Acres - The Highlands, Los Altos","11/15/2016 - 12/15/2016, Every day, Daily Average",3621,2990,4384
+"1686","Embarcadero, San Francisco, CA","2224","600 Arlington Avenue, Berkeley Hills, Berkeley","11/15/2016 - 12/15/2016, Every day, Daily Average",1828,1351,2471
+"1686","Embarcadero, San Francisco, CA","2225","200 Greenbank Avenue, Piedmont","11/15/2016 - 12/15/2016, Every day, Daily Average",1473,1071,2024
+"1686","Embarcadero, San Francisco, CA","2229","0 Kirby Place, Crescent Park, Palo Alto","11/15/2016 - 12/15/2016, Every day, Daily Average",2957,2404,3636
+"1686","Embarcadero, San Francisco, CA","2231","100 Garden Lane, Millbrae","11/15/2016 - 12/15/2016, Every day, Daily Average",1702,1287,2250
+"1686","Embarcadero, San Francisco, CA","2236","San Francisco Bay Trail, Hayward","11/15/2016 - 12/15/2016, Every day, Daily Average",2565,1949,3375
+"1686","Embarcadero, San Francisco, CA","2240","600 Campus Drive, Stanford","11/15/2016 - 12/15/2016, Every day, Daily Average",3657,3024,4422
+"1686","Embarcadero, San Francisco, CA","2244","0 Crystal Springs Terrace, Hillsborough Park, Hillsborough","11/15/2016 - 12/15/2016, Every day, Daily Average",2273,1774,2911
+"1686","Embarcadero, San Francisco, CA","2245","1400 Crestwood Court, South San Mateo, San Mateo","11/15/2016 - 12/15/2016, Every day, Daily Average",2550,1949,3334
+"1686","Embarcadero, San Francisco, CA","2246","900 Baker Way, East San Mateo, San Mateo","11/15/2016 - 12/15/2016, Every day, Daily Average",2377,1797,3143
+"1686","Embarcadero, San Francisco, CA","2247","J. Arthur Younger Freeway, Foster City","11/15/2016 - 12/15/2016, Every day, Daily Average",2505,1895,3311
+"1686","Embarcadero, San Francisco, CA","2248","1600 Notre Dame Avenue, Belmont","11/15/2016 - 12/15/2016, Every day, Daily Average",2400,1885,3054
+"1686","Embarcadero, San Francisco, CA","2250","Hassler Trail, Redwood City","11/15/2016 - 12/15/2016, Every day, Daily Average",2607,2078,3269
+"1686","Embarcadero, San Francisco, CA","2251","2100 Camino De Los Robles, University Heights, Menlo Park","11/15/2016 - 12/15/2016, Every day, Daily Average",3292,2737,3958
+"1686","Embarcadero, San Francisco, CA","2281","0 Corte Palos Verdes, Tiburon, Belvedere Tiburon","11/15/2016 - 12/15/2016, Every day, Daily Average",1680,1348,2093
+"1686","Embarcadero, San Francisco, CA","2307","6500 Addition Road, Newark","11/15/2016 - 12/15/2016, Every day, Daily Average",2940,2282,3786
+"1686","Embarcadero, San Francisco, CA","2308","300 Fremont Street, South of Market, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",366,179,746
+"1686","Embarcadero, San Francisco, CA","2311","2700 Larkin Street, Russian Hill, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",566,391,818
+"1686","Embarcadero, San Francisco, CA","2312","2100 Webster Street, Pacific Heights, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",988,736,1324
+"1686","Embarcadero, San Francisco, CA","2313","1300 Webster Street, Western Addition, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1051,764,1444
+"1686","Embarcadero, San Francisco, CA","2314","300 Waller Street, Western Addition, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1314,979,1763
+"1686","Embarcadero, San Francisco, CA","2315","0 Duboce Avenue, South of Market, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1151,819,1616
+"1686","Embarcadero, San Francisco, CA","2316","2800 Folsom Street, Mission District, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1175,836,1650
+"1686","Embarcadero, San Francisco, CA","2317","100 Coleridge Street, Bernal Heights, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1430,1028,1988
+"1686","Embarcadero, San Francisco, CA","2318","100 Santa Rosa Avenue, Outer Mission, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1197,849,1687
+"1686","Embarcadero, San Francisco, CA","2319","300 Lisbon Street, Excelsior, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1395,1043,1865
+"1686","Embarcadero, San Francisco, CA","2320","300 Argonaut Avenue, Visitacion Valley, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1432,1045,1960
+"1686","Embarcadero, San Francisco, CA","2321","400 Irving Street, Inner Sunset, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1745,1341,2270
+"1686","Embarcadero, San Francisco, CA","2322","100 Eastwood Drive, West of Twin Peaks, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1436,1056,1951
+"1686","Embarcadero, San Francisco, CA","2323","2600 40th Avenue, Sunset District, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",2166,1707,2746
+"1686","Embarcadero, San Francisco, CA","2330","0 Peoria Street, Crocker, Daly City","11/15/2016 - 12/15/2016, Every day, Daily Average",1519,1118,2062
+"1686","Embarcadero, San Francisco, CA","2332","2700 Adeline Street, South Berkeley, Berkeley","11/15/2016 - 12/15/2016, Every day, Daily Average",1606,1171,2202
+"1686","Embarcadero, San Francisco, CA","2337","200 The Alameda, San Anselmo","11/15/2016 - 12/15/2016, Every day, Daily Average",2400,2097,2745
+"1686","Embarcadero, San Francisco, CA","2339","Frenchmans Creek Road, Half Moon Bay","11/15/2016 - 12/15/2016, Every day, Daily Average",2195,1687,2855
+"1686","Embarcadero, San Francisco, CA","2340","0 Mason Street, Tenderloin, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",882,603,1288
+"1686","Embarcadero, San Francisco, CA","2342","4200 Maybelle Avenue, Redwood Heights, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1674,1236,2266
+"1686","Embarcadero, San Francisco, CA","2343","West Point Road, Bayview, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1566,1148,2135
+"1686","Embarcadero, San Francisco, CA","2344","600 3rd Avenue, Richmond District, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1495,1149,1943
+"1686","Embarcadero, San Francisco, CA","2345","1400 Howard Avenue, Downtown, Burlingame","11/15/2016 - 12/15/2016, Every day, Daily Average",2163,1626,2876
+"1686","Embarcadero, San Francisco, CA","2346","0 Glen Avenue, Piedmont Avenue, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1423,994,2035
+"1686","Embarcadero, San Francisco, CA","2347","1500 3rd Avenue, East Lake, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1478,1087,2008
+"1686","Embarcadero, San Francisco, CA","2348","7700 Sunkist Drive, Eastmont Hills, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1575,1156,2145
+"1686","Embarcadero, San Francisco, CA","2349","1600 Ward Street, South Berkeley, Berkeley","11/15/2016 - 12/15/2016, Every day, Daily Average",1391,1001,1932
+"1686","Embarcadero, San Francisco, CA","2350","400 Central Avenue, West Alameda, Alameda","11/15/2016 - 12/15/2016, Every day, Daily Average",1766,1306,2386
+"1686","Embarcadero, San Francisco, CA","2352","600 Shasta Street, Staumbaugh Heller, Redwood City","11/15/2016 - 12/15/2016, Every day, Daily Average",2626,2102,3279
+"1686","Embarcadero, San Francisco, CA","2353","27600 Melbourne Avenue, Glen Eden, Hayward","11/15/2016 - 12/15/2016, Every day, Daily Average",2282,1764,2951
+"1686","Embarcadero, San Francisco, CA","2363","18800 Barnhart Avenue, Rancho Rinconada, Cupertino","11/15/2016 - 12/15/2016, Every day, Daily Average",3751,3144,4475
+"1686","Embarcadero, San Francisco, CA","2367","0 Los Norrabos, El Toyonal, Orinda","11/15/2016 - 12/15/2016, Every day, Daily Average",1515,1129,2031
+"1686","Embarcadero, San Francisco, CA","2378","700 Welch Road, Palo Alto","11/15/2016 - 12/15/2016, Every day, Daily Average",3466,2810,4274
+"1686","Embarcadero, San Francisco, CA","2395","39200 Farwell Drive, 28 Palms, Fremont","11/15/2016 - 12/15/2016, Every day, Daily Average",2998,2305,3897
+"1686","Embarcadero, San Francisco, CA","2401","1400 Queens Road, Berkeley Hills, Berkeley","11/15/2016 - 12/15/2016, Every day, Daily Average",2049,1476,2843
+"1686","Embarcadero, San Francisco, CA","2403","2800 Forest Avenue, Berkeley","11/15/2016 - 12/15/2016, Every day, Daily Average",1658,1247,2203
+"1686","Embarcadero, San Francisco, CA","2404","500 Fairway Drive, Novato","11/15/2016 - 12/15/2016, Every day, Daily Average",2406,1927,3003
+"1686","Embarcadero, San Francisco, CA","2405","0 Upper Ames Avenue, Ross","11/15/2016 - 12/15/2016, Every day, Daily Average",2293,1788,2940
+"1686","Embarcadero, San Francisco, CA","2406","1700 Vistazo Street West, Tiburon, Belvedere Tiburon","11/15/2016 - 12/15/2016, Every day, Daily Average",1981,1633,2402
+"1686","Embarcadero, San Francisco, CA","2409","4300 Hacienda Drive, Pleasanton","11/15/2016 - 12/15/2016, Every day, Daily Average",2779,2146,3597
+"1686","Embarcadero, San Francisco, CA","2421","0 Lakeview Avenue, Piedmont","11/15/2016 - 12/15/2016, Every day, Daily Average",1639,1208,2222
+"1686","Embarcadero, San Francisco, CA","2423","21800 Tanglewood Drive, Castro Valley","11/15/2016 - 12/15/2016, Every day, Daily Average",2021,1558,2621
+"1686","Embarcadero, San Francisco, CA","2434","1000 18th Street, West Oakland, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1421,974,2071
+"1686","Embarcadero, San Francisco, CA","2435","4700 Clarewood Drive, Upper Rockridge, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1633,1124,2370
+"1686","Embarcadero, San Francisco, CA","2437","3200 38th Avenue, Allendale, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1445,1051,1986
+"1686","Embarcadero, San Francisco, CA","2438","Margie Lane, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1770,1283,2440
+"1686","Embarcadero, San Francisco, CA","2441","100 Octavia Street, Western Addition, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1229,900,1678
+"1686","Embarcadero, San Francisco, CA","2442","2800 Mission Street, Mission District, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1329,954,1850
+"1686","Embarcadero, San Francisco, CA","2443","500 22nd Street, Potrero Hill, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",926,619,1383
+"1686","Embarcadero, San Francisco, CA","2448","200 Shorebird Circle, Redwood Shores, Redwood City","11/15/2016 - 12/15/2016, Every day, Daily Average",2507,1967,3194
+"1686","Embarcadero, San Francisco, CA","2451","700 Westlake Center, Westlake, Daly City","11/15/2016 - 12/15/2016, Every day, Daily Average",1504,1076,2102
+"1686","Embarcadero, San Francisco, CA","2452","400 Verducci Drive, Serramonte, Daly City","11/15/2016 - 12/15/2016, Every day, Daily Average",1728,1279,2334
+"1686","Embarcadero, San Francisco, CA","2453","0 Orange Court, Country Club Manor, Hillsborough","11/15/2016 - 12/15/2016, Every day, Daily Average",2168,1637,2870
+"1686","Embarcadero, San Francisco, CA","2454","0 16th Avenue, Hayward Park, San Mateo","11/15/2016 - 12/15/2016, Every day, Daily Average",2226,1733,2857
+"1686","Embarcadero, San Francisco, CA","2455","1300 Holly Street, San Carlos","11/15/2016 - 12/15/2016, Every day, Daily Average",2565,1978,3325
+"1686","Embarcadero, San Francisco, CA","2456","300 Sherwood Way, Linfield Oaks, Menlo Park","11/15/2016 - 12/15/2016, Every day, Daily Average",2988,2441,3657
+"1686","Embarcadero, San Francisco, CA","2460","1300 Montgomery Street, North Beach, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",285,74,1092
+"1686","Embarcadero, San Francisco, CA","2463","200 Moncada Way, Oceanview, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1743,1271,2390
+"1686","Embarcadero, San Francisco, CA","2464","1700 47th Avenue, Sunset District, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",2141,1748,2620
+"1686","Embarcadero, San Francisco, CA","2465","Diamond Cove Terrace, Bayview, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1203,850,1702
+"1686","Embarcadero, San Francisco, CA","2466","400 Amador Street, Bayview, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",995,677,1460
+"1686","Embarcadero, San Francisco, CA","2480","2100 Canyon Lakes Drive, San Ramon","11/15/2016 - 12/15/2016, Every day, Daily Average",2941,2281,3791
+"1686","Embarcadero, San Francisco, CA","2483","100 Burns Court, Pleasant Hill","11/15/2016 - 12/15/2016, Every day, Daily Average",2161,1656,2818
+"1686","Embarcadero, San Francisco, CA","2485","0 Jolie Lane, Walnut Creek","11/15/2016 - 12/15/2016, Every day, Daily Average",2021,1593,2563
+"1686","Embarcadero, San Francisco, CA","2495","100 Shrader Street, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1410,1057,1879
+"1686","Embarcadero, San Francisco, CA","2496","100 Diamond Street, The Castro, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1534,1157,2033
+"1686","Embarcadero, San Francisco, CA","2497","600 Tompkins Avenue, Bernal Heights, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1177,815,1698
+"1686","Embarcadero, San Francisco, CA","2498","700 Rolph Street, Crocker-Amazon, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1600,1189,2152
+"1686","Embarcadero, San Francisco, CA","2499","400 Faxon Avenue, Ingleside, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1433,1031,1990
+"1686","Embarcadero, San Francisco, CA","2502","Old Guadalupe Trail, Daly City","11/15/2016 - 12/15/2016, Every day, Daily Average",1685,1264,2245
+"1686","Embarcadero, San Francisco, CA","2503","3700 Callan Boulevard, Westborough, South San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1775,1327,2374
+"1686","Embarcadero, San Francisco, CA","2504","5900 Cabrillo Highway, Pacifica","11/15/2016 - 12/15/2016, Every day, Daily Average",1834,1480,2271
+"1686","Embarcadero, San Francisco, CA","2505","1000 Commodore Drive, San Bruno","11/15/2016 - 12/15/2016, Every day, Daily Average",1810,1348,2429
+"1686","Embarcadero, San Francisco, CA","2510","400 Nevada Avenue, Baywood - Aragon, San Mateo","11/15/2016 - 12/15/2016, Every day, Daily Average",2338,1858,2940
+"1686","Embarcadero, San Francisco, CA","2513","300 O' Connor Street, The Willows, Menlo Park","11/15/2016 - 12/15/2016, Every day, Daily Average",2760,2179,3495
+"1686","Embarcadero, San Francisco, CA","2519","3700 35th Avenue, Redwood Heights, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1734,1214,2474
+"1686","Embarcadero, San Francisco, CA","2520","3200 Shawn Way, Hayward","11/15/2016 - 12/15/2016, Every day, Daily Average",2110,1646,2704
+"1686","Embarcadero, San Francisco, CA","2525","1200 Elko Drive, Sunnyvale","11/15/2016 - 12/15/2016, Every day, Daily Average",3439,2706,4369
+"1686","Embarcadero, San Francisco, CA","2530","3200 Blandon Road, Oak Knoll Golf Links, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1637,1215,2203
+"1686","Embarcadero, San Francisco, CA","2533","5500 Forbes Drive, Newark","11/15/2016 - 12/15/2016, Every day, Daily Average",2794,2163,3608
+"1686","Embarcadero, San Francisco, CA","2535","3300 Walton Way, West San Jose, San Jose","11/15/2016 - 12/15/2016, Every day, Daily Average",3982,3301,4803
+"1686","Embarcadero, San Francisco, CA","2538","2500 Cordelia Road, Fairfield","11/15/2016 - 12/15/2016, Every day, Daily Average",3530,2677,4654
+"1686","Embarcadero, San Francisco, CA","2540","400 Duperu Drive, Crockett","11/15/2016 - 12/15/2016, Every day, Daily Average",2244,1650,3051
+"1686","Embarcadero, San Francisco, CA","2553","700 Rowland Boulevard, Novato","11/15/2016 - 12/15/2016, Every day, Daily Average",2451,1986,3023
+"1686","Embarcadero, San Francisco, CA","2554","0 Oliver Lane, Mill Valley","11/15/2016 - 12/15/2016, Every day, Daily Average",1583,1275,1965
+"1686","Embarcadero, San Francisco, CA","2582","1200 Manzanita Drive, Millbrae","11/15/2016 - 12/15/2016, Every day, Daily Average",2037,1527,2715
+"1686","Embarcadero, San Francisco, CA","2593","5500 Stoneridge Mall Road, Pleasanton","11/15/2016 - 12/15/2016, Every day, Daily Average",2599,2053,3290
+"1686","Embarcadero, San Francisco, CA","2597","3000 Telegraph Avenue, Pill Hill, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1179,835,1663
+"1686","Embarcadero, San Francisco, CA","2601","800 Cole Street, Ashbury Heights, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1678,1305,2156
+"1686","Embarcadero, San Francisco, CA","2603","11200 Kerrigan Drive, Chabot Park, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1743,1306,2324
+"1686","Embarcadero, San Francisco, CA","2605","0 Cable Roadway, Sausalito","11/15/2016 - 12/15/2016, Every day, Daily Average",1314,1062,1624
+"1686","Embarcadero, San Francisco, CA","2606","2100 Beach Street, Marina District, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",955,716,1272
+"1686","Embarcadero, San Francisco, CA","2607","100 Campus Drive, Stanford","11/15/2016 - 12/15/2016, Every day, Daily Average",3478,2871,4213
+"1686","Embarcadero, San Francisco, CA","2611","2000 Evergreen Avenue, Assumption Parish, San Leandro","11/15/2016 - 12/15/2016, Every day, Daily Average",1834,1394,2412
+"1686","Embarcadero, San Francisco, CA","2613","1700 Eisenhower Street, Shoreview, San Mateo","11/15/2016 - 12/15/2016, Every day, Daily Average",2084,1603,2709
+"1686","Embarcadero, San Francisco, CA","2614","100 West Portal Avenue, West of Twin Peaks, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1935,1492,2508
+"1686","Embarcadero, San Francisco, CA","2616","0 Donna Way, Sequoyah, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1660,1219,2259
+"1686","Embarcadero, San Francisco, CA","2620","2200 McGee Avenue, Central Berkeley, Berkeley","11/15/2016 - 12/15/2016, Every day, Daily Average",1524,1102,2106
+"1686","Embarcadero, San Francisco, CA","2622","300 Langton Street, South of Market, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",871,573,1321
+"1686","Embarcadero, San Francisco, CA","2624","1300 16th Avenue, Inner Sunset, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1829,1408,2374
+"1686","Embarcadero, San Francisco, CA","2625","400 Alpha Street, Visitacion Valley, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1444,997,2090
+"1686","Embarcadero, San Francisco, CA","2629","Cochrane Street, Bayview, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1726,1292,2305
+"1686","Embarcadero, San Francisco, CA","2632","700 Campbell Village Court, West Oakland, Oakland","11/15/2016 - 12/15/2016, Every day, Daily Average",1089,859,1379
+"1686","Embarcadero, San Francisco, CA","2634","Dwight D. Eisenhower Highway, Albany","11/15/2016 - 12/15/2016, Every day, Daily Average",1322,927,1883
+"1686","Embarcadero, San Francisco, CA","2635","2300 Industrial Parkway West, Hayward","11/15/2016 - 12/15/2016, Every day, Daily Average",2325,1798,3005
+"1686","Embarcadero, San Francisco, CA","2643","1300 Egbert Avenue, Bayview, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1538,1126,2099
+"1686","Embarcadero, San Francisco, CA","2647","900 B Street, Hayward","11/15/2016 - 12/15/2016, Every day, Daily Average",2162,1699,2750
+"1686","Embarcadero, San Francisco, CA","2650","400 Palm Avenue, Millbrae","11/15/2016 - 12/15/2016, Every day, Daily Average",2054,1527,2762
+"1686","Embarcadero, San Francisco, CA","2654","Robert Dollar Drive, San Rafael","11/15/2016 - 12/15/2016, Every day, Daily Average",2077,1655,2605
+"1686","Embarcadero, San Francisco, CA","2656","7500 Hollanderry Place, Cupertino","11/15/2016 - 12/15/2016, Every day, Daily Average",3538,2862,4373
+"1686","Embarcadero, San Francisco, CA","2660","0 Burgess Court, Sausalito","11/15/2016 - 12/15/2016, Every day, Daily Average",1403,1138,1728
+"1686","Embarcadero, San Francisco, CA","2673","100 Rutledge Street, Bernal Heights, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1092,753,1581
+"1686","Embarcadero, San Francisco, CA","2675","200 Sandpiper Court, Foster City","11/15/2016 - 12/15/2016, Every day, Daily Average",2394,1857,3085
+"1686","Embarcadero, San Francisco, CA","2682","Middle Burdell Fire Road, Novato","11/15/2016 - 12/15/2016, Every day, Daily Average",2605,2251,3014
+"1686","Embarcadero, San Francisco, CA","2688","3800 Valley Vista Road, Walnut Creek","11/15/2016 - 12/15/2016, Every day, Daily Average",2920,2022,4216
+"1686","Embarcadero, San Francisco, CA","2694","1900 Buchanan Street, Western Addition, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",934,676,1289
+"1686","Embarcadero, San Francisco, CA","2695","2200 Rivera Street, Sunset District, San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",2215,1718,2854
+"1686","Embarcadero, San Francisco, CA","2697","200 F Street, Centennial, Redwood City","11/15/2016 - 12/15/2016, Every day, Daily Average",2511,1954,3225
+"1686","Embarcadero, San Francisco, CA","2700","300 Ponderosa Road, Avalon, South San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1859,1385,2494
+"1686","Embarcadero, San Francisco, CA","2708","200 Westview Drive, Sunshine Gardens, South San Francisco","11/15/2016 - 12/15/2016, Every day, Daily Average",1809,1410,2319
