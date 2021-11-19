@@ -1,0 +1,4 @@
+Time(Hours),EntityID,ObjectName,ProcessID,StepName,Action
+1,Driver[1],Driver[1],7654.OnCapacityChanged,[Notify] InvalidCapacity,Invalid resource capacity detected
+1,Driver[1],Driver[1],7654.OnCapacityChanged,[Notify] InvalidCapacity,Invalid capacity value '3000' assigned to resource 'Driver[1]'. The value cannot be greater than 1.
+
